@@ -1,0 +1,1042 @@
+id,t,n,m,reason,input_text,model_response,model
+56344,T4,N3,M0,"The primary tumor measures 74 mm (>70 mm), classifying it as T4. Ipsilateral mediastinal lymph node enlargement indicates N2, but contralateral tracheal lymph node involvement elevates it to N3. No distant metastases or pleural effusion are reported, resulting in M0.","Complete atelectasis of the left upper lobe.
+74 mm mass with poor contrast enhancement, obstructing the left upper lobe bronchus, considered to be lung cancer. 
+Enlargement of the left pulmonary hilum and ipsilateral mediastinal lymph nodes, suggesting lymph node metastases.
+Enlarged lymph nodes on the right side of the trachea, also suspected to be lymph node metastases. The left lower lobe bronchus is also infiltrated by the tumor and is narrowed. 
+No pleural effusion. 
+Normal appearance of the visualized upper abdomen.","{
+  ""T"": ""T4"",
+  ""N"": ""N3"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 74 mm (>70 mm), classifying it as T4. Ipsilateral mediastinal lymph node enlargement indicates N2, but contralateral tracheal lymph node involvement elevates it to N3. No distant metastases or pleural effusion are reported, resulting in M0.""
+}",deepseek-reasoner
+133166,T1c,N1,M0,"The tumor measures 30 mm (T1c). A right hilar lymph node enlargement suggests ipsilateral hilar involvement (N1). No distant metastasis is reported (M0). The left lower lobe opacity is considered inflammatory, not metastatic.","Tumorous lesion with a diameter of 30 mm in the right lower lobe, S8. Its margin is spiculated. There is a possibility of lung cancer, so thorough examination in pulmonary medicine is recommended. 
+Cord-like opacity in the left lower lobe, similar to an inflammatory scar.
+Enlargement of a right hilar lymph node is suspected. No pleural effusion.","{
+  ""T"": ""T1c"",
+  ""N"": ""N1"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 30 mm (T1c). A right hilar lymph node enlargement suggests ipsilateral hilar involvement (N1). No distant metastasis is reported (M0). The left lower lobe opacity is considered inflammatory, not metastatic.""
+}",deepseek-reasoner
+165742,T3,N0,M0,"The primary tumor measures 50 mm and invades the parietal pleura (chest wall structure), meeting T3 criteria. No mediastinal/hilar lymph node enlargement supports N0. The adrenal lesion is described as likely benign, and no other metastases are identified, indicating M0.","Pulmonary mass with a diameter of 50 mm in the right lung apex with spiculated margins, suspicious of lung cancer. Infiltration to the parietal pleura, suggesting T3. 
+No significant findings in the other lobes.
+No mediastinal or hilar lymph node enlargement.
+No pleural effusion.
+The left adrenal gland is enlarged, likely an adenoma.
+No significant findings in other abdominal organs.","{
+  ""T"": ""T3"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 50 mm and invades the parietal pleura (chest wall structure), meeting T3 criteria. No mediastinal/hilar lymph node enlargement supports N0. The adrenal lesion is described as likely benign, and no other metastases are identified, indicating M0.""
+}",deepseek-reasoner
+404886,T4,N2,M1c,"T4: Tumor size >70 mm (72 mm). N2: Ipsilateral mediastinal lymph node involvement. M1c: Multiple extrathoracic bone metastases (humerus and scapula). Pleural effusion (M1a) and axillary nodes (non-regional, distant) are present, but M1c supersedes due to multiple extrathoracic metastases.","Tumorous lesion with a maximum diameter of 72 mm in the left lower lobe, suspicious of lung cancer. 
+The left lower lobe bronchus is infiltrated by the tumor, and there are infiltrative opacities around the tumor. 
+Associated obstructive pneumonia in the left lower lobe. 
+The left hilum and ipsilateral mediastinal lymph nodes are enlarged, suspicious of lymph node metastases. 
+The left axillary lymph nodes are enlarged, suspicious of lymph node metastases. 
+Small amount of pleural effusion on the left. 
+Osteolytic lesions in the proximal end of the left humerus and the left scapula, suspicious of bone metastases. 
+Cystic lesion in the midline skin of the back, possibly a sebaceous cyst.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""T4: Tumor size >70 mm (72 mm). N2: Ipsilateral mediastinal lymph node involvement. M1c: Multiple extrathoracic bone metastases (humerus and scapula). Pleural effusion (M1a) and axillary nodes (non-regional, distant) are present, but M1c supersedes due to multiple extrathoracic metastases.""
+}",deepseek-reasoner
+463397,T2b,N1,M0,T2b: Tumor measures 47 mm (falls within T2b's 40-50 mm range) with pleural invasion (a T2 feature). N1: Conglomerated hilar lymph nodes indicate ipsilateral hilar involvement (N1). M0: No evidence of distant metastasis or pleural effusion.,"Prominent emphysematous changes. Irregular lobulated mass with a maximum diameter of 47 mm in the left upper lobe, with noticeable spiculated margins and pleural indentation. This correlates to a known lung cancer with pleural invasion. Hilar lymph nodes appear conglomerated. No other pathological lymph node enlargement. No pleural effusion.","{
+  ""T"": ""T2b"",
+  ""N"": ""N1"",
+  ""M"": ""M0"",
+  ""Reason"": ""T2b: Tumor measures 47 mm (falls within T2b's 40-50 mm range) with pleural invasion (a T2 feature). N1: Conglomerated hilar lymph nodes indicate ipsilateral hilar involvement (N1). M0: No evidence of distant metastasis or pleural effusion.""
+}",deepseek-reasoner
+493069,T3,N1,M1b,T3: Primary tumor (30 mm) with a separate 8 mm nodule in the same lobe. N1: Enlarged left hilar lymph nodes (ipsilateral hilar involvement). M1b: Single liver nodule (extrathoracic metastasis).,"Solid mass with a diameter of 30 mm in the lower lobe of the left lung with spiculated margins, suspicious of primary lung cancer. A small nodule of 8 mm in size is seen within the same lobe, considered as T3. 
+No significant findings in the other lobes.
+Enlargement of the left hilar lymph nodes, suspicious of metastasis. No lymph node metastasis in the mediastinum or on the opposite side, considered as N1.
+No pleural effusion.
+A small nodule in liver S5. It is a single lesion, but there is a possibility of metastasis.
+Bilateral renal cysts.
+No significant findings in the gallbladder, pancreas, or spleen.
+No enlargement of the abdominal lymph nodes.
+No ascites.","{
+  ""T"": ""T3"",
+  ""N"": ""N1"",
+  ""M"": ""M1b"",
+  ""Reason"": ""T3: Primary tumor (30 mm) with a separate 8 mm nodule in the same lobe. N1: Enlarged left hilar lymph nodes (ipsilateral hilar involvement). M1b: Single liver nodule (extrathoracic metastasis).""
+}",deepseek-reasoner
+862683,T1b,N0,M0,"The primary tumor measures 12 mm (T1b: >10 mm but ≤20 mm). There is no evidence of lymph node involvement (N0) or distant metastasis (M0). The subpleural location does not indicate visceral pleural invasion, and there are no features supporting higher T categories.","A 12 mm subpleural nodule in the right lower lobe, believed to be a finding of the known lung cancer. Interstitial pneumonia is suspected in both lungs. No pathological lymph node enlargement. No pleural effusion. Gallstones.","{
+  ""T"": ""T1b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 12 mm (T1b: >10 mm but ≤20 mm). There is no evidence of lymph node involvement (N0) or distant metastasis (M0). The subpleural location does not indicate visceral pleural invasion, and there are no features supporting higher T categories.""
+}",deepseek-reasoner
+906857,T3,N2,M1c,"The primary tumor measures 30 mm (T1c), but T3 is assigned due to separate tumor nodules (9 mm and 8 mm) in the same lobe (S8). N2 is selected due to mediastinal lymph node involvement. M1c is assigned for multiple liver metastases (extrathoracic spread to multiple organs).","A solid mass of approximately 30 mm is observed in the lower lobe of the left lung, suspicious of lung cancer. There is a 9 mm nodule in its vicinity, and an 8 mm nodule in S8, suspicious of same-side intralobar metastases. Multiple soft tissue lesions spreading from the left pulmonary hilum to the mediastinum are suspicious of lymph node metastases. Multiple nodular lesions with ill-defined borders in the liver, suspicious of liver metastases.","{
+  ""T"": ""T3"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 30 mm (T1c), but T3 is assigned due to separate tumor nodules (9 mm and 8 mm) in the same lobe (S8). N2 is selected due to mediastinal lymph node involvement. M1c is assigned for multiple liver metastases (extrathoracic spread to multiple organs).""
+}",deepseek-reasoner
+908422,T3,N1,M1b,"The primary tumor measures 35 mm (T2a), but the presence of a separate nodular shadow in the same lobe (left lower lobe) upgrades T to T3. Enlarged lymph nodes in the left hilum indicate N1. The liver lesion (single extrathoracic metastasis) classifies as M1b. The pulmonary nodule in the same lobe contributes to T3, not M, as per TNM rules.","An irregular mass of 35 mm is observed in the left lower lobe, suspicious of lung cancer. In addition, a nodular shadow is seen on the ventral side of the above lesion, possibly a pulmonary metastasis. Enlarged lymph nodes are observed in the left hilum, suggesting metastases. No pleural effusion. A hypovascular lesion is observed in the liver S5, which appears to be continuous with the gallbladder, suspicious of metastasis, or possibly gallbladder cancer. Please evaluate in conjunction with clinical findings. A cyst in the left kidney. No ascites.","{
+  ""T"": ""T3"",
+  ""N"": ""N1"",
+  ""M"": ""M1b"",
+  ""Reason"": ""The primary tumor measures 35 mm (T2a), but the presence of a separate nodular shadow in the same lobe (left lower lobe) upgrades T to T3. Enlarged lymph nodes in the left hilum indicate N1. The liver lesion (single extrathoracic metastasis) classifies as M1b. The pulmonary nodule in the same lobe contributes to T3, not M, as per TNM rules.""
+}",deepseek-reasoner
+1185427,T2a,N0,M0,"The tumor is 30 mm (T1c size) but classified as T2a due to suspected visceral pleural invasion, a T2-defining feature. There is no lymph node enlargement (N0) or distant metastasis (M0). Ground-glass opacities are not confirmed as metastases.","A 30 mm diameter tumor is observed in the right lower lobe, suspicious of lung cancer. Accompanied by interlobar pleural indentation, visceral pleural invasion might be present. There are multiple focal ground-glass opacities in both upper lobes, recommended for follow-up. No significant lymph node enlargement in the hilum or mediastinum. No pleural effusion.","{
+  ""T"": ""T2a"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor is 30 mm (T1c size) but classified as T2a due to suspected visceral pleural invasion, a T2-defining feature. There is no lymph node enlargement (N0) or distant metastasis (M0). Ground-glass opacities are not confirmed as metastases.""
+}",deepseek-reasoner
+1538432,T2b,N1,M0,The tumor measures 47 mm (T2b: >40 mm but ≤50 mm). Infiltration into the lower lobe via interlobar pleura supports visceral pleural invasion (T2 feature). Hilar lymph node fusion with the tumor indicates ipsilateral hilar involvement (N1). No distant metastases are identified (M0).,"There is a tumor with a maximum diameter of 47 mm in the upper left lobe. It has infiltrated the lower lobe, crossing the interlobar pleura. The hilar lymph nodes are fused with the tumor. No enlargement of the mediastinal lymph nodes is observed. There is no pleural effusion. No liver or adrenal metastasis is observed. No significant abnormalities are observed in the visualized abdominal organs.","{
+  ""T"": ""T2b"",
+  ""N"": ""N1"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 47 mm (T2b: >40 mm but ≤50 mm). Infiltration into the lower lobe via interlobar pleura supports visceral pleural invasion (T2 feature). Hilar lymph node fusion with the tumor indicates ipsilateral hilar involvement (N1). No distant metastases are identified (M0).""
+}",deepseek-reasoner
+1679413,T4,N0,M1a,"T4: Tumor size is 47 mm (T2b), but invasion into the left pulmonary artery (a great vessel) upstages to T4. N0: No significant mediastinal lymph node enlargement. M1a: Presence of a small nodule in the contralateral right middle lobe, classified as M1a per TNM criteria for separate tumor nodule(s) in a contralateral lobe.","Emphysematous changes.
+A 47 mm irregular mass in the left upper lobe, suspicious of lung cancer. Possible invasion into the left pulmonary artery, as far as can be assessed with CT to a limited extent. The mass is also close to the aortic arch.
+A small nodule is present in the right middle lobe, possibly inflammatory or metastasis, re-evaluation recommended in follow-up.
+No significant mediastinal lymph node enlargement.
+No pleural effusion.","{
+  ""T"": ""T4"",
+  ""N"": ""N0"",
+  ""M"": ""M1a"",
+  ""Reason"": ""T4: Tumor size is 47 mm (T2b), but invasion into the left pulmonary artery (a great vessel) upstages to T4. N0: No significant mediastinal lymph node enlargement. M1a: Presence of a small nodule in the contralateral right middle lobe, classified as M1a per TNM criteria for separate tumor nodule(s) in a contralateral lobe.""
+}",deepseek-reasoner
+1736655,T4,N2,M0,"T4: Subpleural nodules in the right upper lobe (different ipsilateral lobe than the primary, if primary is in the right hilar region). N2: Metastasis suspected in mediastinal lymph nodes. M0: No confirmed distant metastasis outside the thorax; hepatosplenomegaly is not definitively linked to metastasis.","S/P resection of right breast cancer. No sign of local recurrent tumor. Multiple masses are scattered in the mediastinum and right hilum. Lymph node metastasis is suspected. Differential diagnosis includes right hilar lung cancer and lymph node metastasis. Subpleural nodules in the right upper lobe, possibly metastases. Predominantly subpleural interstitial changes such as reticular and linear opacities in the lower lobe. No pleural effusion. Hepatosplenomegaly.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""T4: Subpleural nodules in the right upper lobe (different ipsilateral lobe than the primary, if primary is in the right hilar region). N2: Metastasis suspected in mediastinal lymph nodes. M0: No confirmed distant metastasis outside the thorax; hepatosplenomegaly is not definitively linked to metastasis.""
+}",deepseek-reasoner
+1856176,T2a,N2,M1a,"The tumor involves the right main bronchus (T2 criteria) despite its small size (10 mm). Subcarinal lymph node involvement indicates N2. Right pleural effusion suggests malignant involvement (M1a). T2a is selected based on the main bronchus feature, though the size does not meet T2a criteria, highlighting a classification limitation with the provided data.","A tumor with a major axis of 10 mm, which obstructs the airways from the right main bronchus to the lower lobe bronchus, is observed at the right hilum, suspecting known lung cancer. Possible fusion of the mass with right hilar and subcarinal lymph nodes. 
+Atelectasis of the right lower lobe. There is a possibility that lung cancer may also be present here, but it is not conclusively assessable.
+Pleural effusion in the right chest.
+Ground-glass opacities in both lungs, suggesting pulmonary edema.","{
+  ""T"": ""T2a"",
+  ""N"": ""N2"",
+  ""M"": ""M1a"",
+  ""Reason"": ""The tumor involves the right main bronchus (T2 criteria) despite its small size (10 mm). Subcarinal lymph node involvement indicates N2. Right pleural effusion suggests malignant involvement (M1a). T2a is selected based on the main bronchus feature, though the size does not meet T2a criteria, highlighting a classification limitation with the provided data.""
+}",deepseek-reasoner
+1863157,T1b,N0,M0,The primary tumor is 12 mm (T1b category as it is >10 mm but ≤20 mm). There is no evidence of lymph node enlargement (N0) or distant metastasis (M0) based on the absence of mediastinal/hilar lymph node enlargement and no mention of extrathoracic lesions.,"A nodule measuring 12 mm in diameter in the right lower lobe S8/9, increasing in size, suspected to be a known lung cancer. Reticular opacities present in the right S6, likely inflammatory changes. Calcified pleural plaques  on both sides, suggesting the possibility of asbestos-related disease. No significant enlargement of the mediastinal and hilar lymph nodes or other mediastinal lesions. No pleural effusion. Gallstones.","{
+  ""T"": ""T1b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor is 12 mm (T1b category as it is >10 mm but ≤20 mm). There is no evidence of lymph node enlargement (N0) or distant metastasis (M0) based on the absence of mediastinal/hilar lymph node enlargement and no mention of extrathoracic lesions.""
+}",deepseek-reasoner
+1876861,T2b,N2,M1b,The tumor measures 48 mm (T2b: >40 mm and ≤50 mm) with suspected visceral pleural invasion (T2 feature). Enlarged right hilar and mediastinal lymph nodes indicate N2 (ipsilateral mediastinal involvement). The left adrenal gland lesion is a single extrathoracic metastasis (M1b).,"Signs of chronic pulmonary emphysema.
+An irregular tumor with a long diameter of 48 mm in the right lung apex, suspicious of primary lung cancer. 
+It is in contact with the pleura of the right lung apex, suspecting visceral pleural invasion. 
+No secondary tumor nodules.
+Several enlarged hilar and mediastinal lymph nodes on the right side, suspecting metastases. 
+No pleural effusion. 
+A tumor in the upper part of the left adrenal gland, suspicious of adrenal metastasis.","```json
+{
+  ""T"": ""T2b"",
+  ""N"": ""N2"",
+  ""M"": ""M1b"",
+  ""Reason"": ""The tumor measures 48 mm (T2b: >40 mm and ≤50 mm) with suspected visceral pleural invasion (T2 feature). Enlarged right hilar and mediastinal lymph nodes indicate N2 (ipsilateral mediastinal involvement). The left adrenal gland lesion is a single extrathoracic metastasis (M1b).""
+}
+```",deepseek-reasoner
+1956050,T4,N2,M0,"T4: Tumor size is described as slightly over 70 mm (primary criterion for T4). N2: Enlarged lymph node on the left side of the aortic arch (ipsilateral mediastinal node involvement). M0: No distant metastases confirmed (right lower lobe nodule is likely inflammatory, no extrathoracic lesions).","Emphysematous changes.
+A mass is observed in the center of the left upper lobe. The left upper lobe bronchus is interrupted proximally, and irregularity and narrowing are observed in the left pulmonary artery and vein, which are partially interrupted. The mass corresponds to the known lung cancer.
+The left upper lobe is collapsed and the exact tumor size is not assessable conclusively, but the long diameter is considered to be slightly over 70 mm. 
+A spindle-shaped small nodule is observed in the right lower lobe, likely an inflammatory scar.
+No signs of lung metastases.
+Enlarged lymph nodes are observed in the left hilum and on the left side of the aortic arch. The latter is 9 mm in short diameter, nearly spherical, suspicious of metastasis. 
+No pleural effusion. 
+No lesions suspected of metastasis in the visualized liver and adrenal glands.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""T4: Tumor size is described as slightly over 70 mm (primary criterion for T4). N2: Enlarged lymph node on the left side of the aortic arch (ipsilateral mediastinal node involvement). M0: No distant metastases confirmed (right lower lobe nodule is likely inflammatory, no extrathoracic lesions).""
+}",deepseek-reasoner
+2021673,T4,N2,M0,"The primary tumor measures 120 mm (>70 mm), categorizing it as T4. Enlarged lymph nodes near the aorta (mediastinal) indicate N2. No distant metastasis (M0) is confirmed as nodules in the ipsilateral upper lobe are part of the T classification (same lobe) and no extrathoracic lesions are reported.","A mass, approximately 120 mm in diameter, is observed primarily in the upper lobe of the left lung, extending across the interlobar pleura to the lower lobe of the left lung. The tumor is widely in contact with the mediastinum and pleura. Osteolytic changes are observed in the left third rib, suggesting infiltration. Enlarged lymph nodes are observed in the left hilum and near the aorta, suspicious of metastasis. Several nodules of a few millimeters are observed in the upper lobe of the left lung, possibly metastasis. No lesions suspicious of metastasis in other lung fields. There is no pleural effusion. No lesions suspicious of bone metastasis.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 120 mm (>70 mm), categorizing it as T4. Enlarged lymph nodes near the aorta (mediastinal) indicate N2. No distant metastasis (M0) is confirmed as nodules in the ipsilateral upper lobe are part of the T classification (same lobe) and no extrathoracic lesions are reported.""
+}",deepseek-reasoner
+2195733,T3,N1,M1b,"The primary tumor measures 35 mm (T2a by size), but peritumoral nodules in the same lobe (T3 criteria). Left hilar lymph node enlargement indicates N1. A liver nodule suspicious for metastasis classifies as M1b (single extrathoracic metastasis).","Findings of chronic pulmonary emphysema. An irregular tumor with a long diameter of 35 mm in the left lower lobe S6, suspicious of primary lung cancer. Small nodules suspected of being peritumoral nodules are observed around the tumor. Enlargement of the left hilar lymph nodes, suspicious of metastasis. No pleural effusion. A hypodense nodule in the liver S5, suspicious of liver metastasis. Bilateral renal cysts. No significant intra-abdominal or retroperitoneal lymph node enlargement. No soft tissue lesions suspected of disseminated metastases, and no ascites.","{
+  ""T"": ""T3"",
+  ""N"": ""N1"",
+  ""M"": ""M1b"",
+  ""Reason"": ""The primary tumor measures 35 mm (T2a by size), but peritumoral nodules in the same lobe (T3 criteria). Left hilar lymph node enlargement indicates N1. A liver nodule suspicious for metastasis classifies as M1b (single extrathoracic metastasis).""
+}",deepseek-reasoner
+2240304,T3,N2,M1b,"The 46 mm tumor (T2b by size) invades the parietal pleura (chest wall), upgrading it to T3. Ipsilateral mediastinal lymph node enlargement indicates N2. A contralateral adrenal gland metastasis qualifies as M1b (single extrathoracic metastasis).","46 mm mass in the right upper lobe, suspicious of lung cancer. The tumor protrudes into the subpleural adipose tissue, suggesting pleural invasion on the parietal side. 
+Enlargement of the mediastinal lymph nodes on the same side. Although not significant in size, the lymph nodes on the opposite side are also slightly enlarged. 
+There are bullae in the apices of both lungs. 
+No pleural effusion. 
+There is a tumor in the left adrenal gland, suspicious of metastasis.","{
+  ""T"": ""T3"",
+  ""N"": ""N2"",
+  ""M"": ""M1b"",
+  ""Reason"": ""The 46 mm tumor (T2b by size) invades the parietal pleura (chest wall), upgrading it to T3. Ipsilateral mediastinal lymph node enlargement indicates N2. A contralateral adrenal gland metastasis qualifies as M1b (single extrathoracic metastasis).""
+}",deepseek-reasoner
+2254357,T4,N3,M0,"The tumor measures 120 mm (>70 mm), classifying it as T4. Bilateral hilar lymph node involvement indicates contralateral metastasis (N3). No distant metastases are reported (M0). Rib destruction and ipsilateral mediastinal nodes support T4 and N3, respectively.","A tumor with a diameter of 120 mm is observed spreading across the upper and lower lobe of the left lung, corresponding to known lung cancer. It is in extensive contact with the pleura and is accompanied by the destruction of the left 3rd rib. Rib and parietal pleural infiltration is suspected. There are small nodules in the left upper lobe, suspicious of secondary tumor nodules. The left mediastinal and bilateral hilar lymph nodes are enlarged, suspicious of metastasis. No pleural effusion. No obvious abnormalities are observed in the visualized upper abdomen.","{
+  ""T"": ""T4"",
+  ""N"": ""N3"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 120 mm (>70 mm), classifying it as T4. Bilateral hilar lymph node involvement indicates contralateral metastasis (N3). No distant metastases are reported (M0). Rib destruction and ipsilateral mediastinal nodes support T4 and N3, respectively.""
+}",deepseek-reasoner
+2298369,T2a,N0,M0,"The tumor involves the right main bronchus (T2 feature) and causes obstructive atelectasis extending to the hilar region (another T2 feature). While the size (17 mm) would classify it as T1b, the bronchial involvement and atelectasis upstage it to T2. Since the system requires T2a or T2b, T2a is chosen despite the size being below 30 mm. N0 due to no pathological lymph node enlargement. M0 as there are no confirmed distant metastases.","A nodule protruding into the lumen of the right main bronchus and the intermediate bronchus, considered to be a known cancer lesion. The longest diameter is 17 mm. Due to this, the right middle lobe bronchus and right lower lobe bronchus are obstructed, and the right middle and lower lobes of the lung are collapsed. No significant abnormalities in other areas of the lung. There is no pathological enlargement of the mediastinal and hilar lymph nodes. A small amount of right pleural effusion. No significant abnormalities in the visualized upper abdomen. No destruction or sclerosis that would be suspicious of metastasis in the visualized bones.","{
+  ""T"": ""T2a"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor involves the right main bronchus (T2 feature) and causes obstructive atelectasis extending to the hilar region (another T2 feature). While the size (17 mm) would classify it as T1b, the bronchial involvement and atelectasis upstage it to T2. Since the system requires T2a or T2b, T2a is chosen despite the size being below 30 mm. N0 due to no pathological lymph node enlargement. M0 as there are no confirmed distant metastases.""
+}",deepseek-reasoner
+2343928,T2b,N0,M0,"T2b: Tumor measures 47 mm (T2b = 40-50 mm). No evidence of mediastinal invasion confirmed (T4 criteria not definitively met). N0: No significant lymph node enlargement in mediastinum/hilum. M0: No pleural effusion, abdominal abnormalities, or distant metastases reported.","No comparable imaging studies available. A lobulated tumor mass, approximately 47 mm in diameter, in the hilum of the left upper lobe, which is considered to be a known finding of lung cancer. The lesion appears to surround the bronchus of the left upper lobe, suggesting bronchial stenosis. Expansion into the mediastinum is also suspected, and the boundary with the left main pulmonary artery cannot be assessed conclusively on the current CT. Please consider evaluation with contrast-enhanced CT. 
+No significant lymph node enlargement in the mediastinum or hilum. 
+No pleural effusion. 
+No obvious abnormalities in the visualized upper abdomen. 
+No ascites. 
+No other significant findings.","{
+  ""T"": ""T2b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""T2b: Tumor measures 47 mm (T2b = 40-50 mm). No evidence of mediastinal invasion confirmed (T4 criteria not definitively met). N0: No significant lymph node enlargement in mediastinum/hilum. M0: No pleural effusion, abdominal abnormalities, or distant metastases reported.""
+}",deepseek-reasoner
+2538844,T4,N2,M0,"The primary tumor measures 120 mm (>70 mm), categorizing it as T4. Invasion into the chest wall (parietal pleura) and rib further supports T4. Enlarged mediastinal lymph nodes indicate N2. No distant metastasis is reported, leading to M0.","A large tumorous lesion (primary focus 120 mm), centered in the upper lobe of the left lung. There is extensive contact with the visceral pleura, and pleural invasion is suspected. Some subpleural adipose tissue is irregular, and invasion into the chest wall is also suspected. The cortical bone of the left third rib is also irregular, suspicious of rib invasion.
+No pulmonary metastasis.
+Enlargement of the left hilum and mediastinal lymph nodes, suspicious of metastasis.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 120 mm (>70 mm), categorizing it as T4. Invasion into the chest wall (parietal pleura) and rib further supports T4. Enlarged mediastinal lymph nodes indicate N2. No distant metastasis is reported, leading to M0.""
+}",deepseek-reasoner
+2932043,T4,N1,M0,T4: Tumor size (74 mm) exceeds 70 mm. N1: Suspected left hilar lymph node involvement (ipsilateral hilar nodes). M0: No distant metastasis reported.,"A mass of approximately 74 mm is observed in the upper lobe of the left lung, not containing any air. Primary lung cancer is suspected. The central bronchus is obstructed by the tumor, leaving the upper lobe of the left lung in an almost completely atelectatic state. 
+No pulmonary nodules. There are no findings suggesting lung metastasis.
+Infiltration into the left hilar lymph nodes is suspected. There is no mediastinal lymph node enlargement.
+No distant metastasis visualized.","{
+  ""T"": ""T4"",
+  ""N"": ""N1"",
+  ""M"": ""M0"",
+  ""Reason"": ""T4: Tumor size (74 mm) exceeds 70 mm. N1: Suspected left hilar lymph node involvement (ipsilateral hilar nodes). M0: No distant metastasis reported.""
+}",deepseek-reasoner
+2987117,T4,N0,M0,"The tumor measures 47 mm (T2b by size) but shows infiltration into mediastinal fat, which qualifies as T4 due to mediastinal invasion. No pathological lymph nodes are reported (N0). No distant metastases are detected (M0).","Emphysema.
+A mass with a maximum diameter of 47 mm in the upper lobe of the left lung. The tumor has a lobulated shape and spiculated margins, suggesting primary lung cancer. Infiltration into the mediastinal fat is observed, raising suspicion for T4.
+No tumorous lesions in other lung fields.
+On non-contrast CT, no pathological enlargement is observed in the pulmonary hilum, mediastinum, or supraclavicular lymph nodes.
+No pleural effusion.
+No significant findings in the visualized abdomen.","{
+  ""T"": ""T4"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 47 mm (T2b by size) but shows infiltration into mediastinal fat, which qualifies as T4 due to mediastinal invasion. No pathological lymph nodes are reported (N0). No distant metastases are detected (M0).""
+}",deepseek-reasoner
+3029476,T2a,N2,M1c,T2a: Tumor size is 40 mm (T2a category: 30-40 mm). N2: Enlarged ipsilateral mediastinal lymph nodes indicate N2. M1c: Multiple liver nodules (extrathoracic metastases in one organ) classify as M1c.,"A lobulated tumor with a diameter of 40 mm in the right lower lobe, suspicious of primary lung cancer. There is bronchiectasis with mucus retention below the tumor. Ground-glass opacities in the right upper lobe, likely inflammatory.
+Enlargement of the right hilar and mediastinal lymph nodes, suspicious of metastasis.
+No pleural effusion.
+Multiple hypodense nodules in the liver, suspicious of metastasis.
+Dilation of the common bile duct and intrahepatic bile duct.
+Renal cysts.","{
+  ""T"": ""T2a"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""T2a: Tumor size is 40 mm (T2a category: 30-40 mm). N2: Enlarged ipsilateral mediastinal lymph nodes indicate N2. M1c: Multiple liver nodules (extrathoracic metastases in one organ) classify as M1c.""
+}",deepseek-reasoner
+3072861,T3,N1,M0,"The primary tumor measures 30 mm (T1c), but T3 is assigned due to the presence of a secondary tumor nodule in the same lobe. The left hilar lymph node enlargement indicates N1. No distant metastasis (M0) is confirmed by the absence of findings in the upper abdomen.","A lobulated mass containg a cavity of 30 mm in diameter in the lower lobe of the left lung. Traction of the interlobar fissure and a spiculated margin are also observed. The mass is considered to be the known lung cancer. A secondary tumor nodule is suspected within the same lobe.
+The left hilar lymph node is enlarged.
+No obvious metastasis in the upper abdomen.","{
+  ""T"": ""T3"",
+  ""N"": ""N1"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 30 mm (T1c), but T3 is assigned due to the presence of a secondary tumor nodule in the same lobe. The left hilar lymph node enlargement indicates N1. No distant metastasis (M0) is confirmed by the absence of findings in the upper abdomen.""
+}",deepseek-reasoner
+3384646,T4,N2,M1c,T4: Tumor size is 72 mm (>70 mm). N2: Enlarged ipsilateral mediastinal lymph node (4L). M1c: Multiple extrathoracic metastases (osteolytic lesions in left humerus/scapula and left axillary lymph nodes).,"A mass with a maximum diameter of 72 mm in the lower lobe of the left lung, suspicious of lung cancer. It is considered T4.
+Stenosis of the airway caused by the tumor, and an increased density in the peripheral lung field, suspecting obstructive pneumonia.
+Thickening of the pleura adjacent to the tumor and a small amount of pleural effusion. Pleural invasion and malignant pleural effusion are suspected.
+No tumorous lesions in other lung fields.
+Enlargement of a mediastinal lymph node level 4L is observed. It is considered N2.
+Osteolytic lesions in the left humerus and scapula, suspicious of metastasis.
+Metastasis is also observed in the left axillary lymph nodes. This is distant metastasis.
+No significant findings in the visualized abdominal organs.
+A subcutaneous lesion suspected of being a sebaceous cyst on the back.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""T4: Tumor size is 72 mm (>70 mm). N2: Enlarged ipsilateral mediastinal lymph node (4L). M1c: Multiple extrathoracic metastases (osteolytic lesions in left humerus/scapula and left axillary lymph nodes).""
+}",deepseek-reasoner
+3599413,T2a,N2,M0,"The tumor involves the bronchus intermedius (main bronchus), qualifying for T2. Despite the 17 mm size (below 30 mm), T2a is selected due to the main bronchus involvement and associated atelectasis extending to the hilar region. Enlarged ipsilateral mediastinal lymph nodes indicate N2. Pleural effusion is noted but not confirmed as malignant, thus M0.","There is a 17 mm protruding lesion in the right bronchial lumen. 
+It is considered to be the known lesion.
+The right upper lobe bronchus is patent, but the bronchus intermedius is obstructed by the tumor. Atelectasis is evident in the right middle and lower lobes.
+There is a small amount of pleural effusion on the right.
+The right hilum and ipsilateral mediastinal lymph nodes are enlarged, considered to be lymph node metastases.","{
+  ""T"": ""T2a"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor involves the bronchus intermedius (main bronchus), qualifying for T2. Despite the 17 mm size (below 30 mm), T2a is selected due to the main bronchus involvement and associated atelectasis extending to the hilar region. Enlarged ipsilateral mediastinal lymph nodes indicate N2. Pleural effusion is noted but not confirmed as malignant, thus M0.""
+}",deepseek-reasoner
+4092235,T1b,N0,M0,The primary tumor measures 12 mm (T1b: >10 mm but ≤20 mm). No lymph node enlargement was reported (N0). No evidence of distant metastasis (M0). Pleural plaques and gallstones are non-metastatic findings.,"A 12 mm nodule is observed in the right lower lobe, which has increased in size compared to the CT in August 2012, possibly lung cancer.
+Ground-glass opacities and reticular opacities are seen mainly in the subpleural area of the lower lung field, suggesting interstitial pneumonia. 
+No significant lymph node enlargement in the hilum and mediastinum, as far as this can be assessed on non-contrast CT.
+Thickening and calcification of the left pleura, suggesting pleural plaques. 
+No pleural effusion. 
+Gallstones.","{
+  ""T"": ""T1b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 12 mm (T1b: >10 mm but ≤20 mm). No lymph node enlargement was reported (N0). No evidence of distant metastasis (M0). Pleural plaques and gallstones are non-metastatic findings.""
+}",deepseek-reasoner
+4166189,T4,N2,M0,"T4: Tumor size >70 mm (120 mm) and invasion of aortic arch/pulmonary artery (T4 criteria). N2: Metastasis in ipsilateral mediastinal lymph node (level 6). M0: No distant metastasis (bone destruction in rib is local invasion, not distant metastasis; no extrathoracic findings).","A tumor with a major axis of 120 mm in the left upper lobe of the lung. Infiltration of the aortic arch and pulmonary artery is suspected. This is considered T4.
+Enlargement of the left pulmonary hilum and a mediastinal lymph node in level 6 is observed, suspicious of metastases. This is considered N2.
+No pleural effusion is observed.
+Bone destruction due to the tumor is observed in the left 3rd rib. No findings suggesting distant metastasis to the visualized bones.
+No significant findings in the visualized abdomen.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""T4: Tumor size >70 mm (120 mm) and invasion of aortic arch/pulmonary artery (T4 criteria). N2: Metastasis in ipsilateral mediastinal lymph node (level 6). M0: No distant metastasis (bone destruction in rib is local invasion, not distant metastasis; no extrathoracic findings).""
+}",deepseek-reasoner
+4465068,T0,N2,M0,"T0: No definitive primary lung tumor identified (nodules in right lobes are suggested to be benign). N2: Enlarged lymph nodes in the mediastinum (ipsilateral mediastinal involvement). M0: No evidence of distant metastasis (no pleural effusion, ascites, or extrathoracic lesions confirmed as malignant).","No comparable imaging studies are available.
+There are multiple enlarged lymph nodes with heterogeneous enhancement in the right hilum and mediastinum. S/P resection of right breast cancer, but there is no significant lymph node enlargement in other areas, suggesting lymph node metastasis of small cell lung cancer.
+Nodules of about 10 mm in the right upper lobe and 5 mm in the right lower lobe. Although there is a possibility of primary or metastatic lesions, the polygonal shape suggests benign lesions such as old granulomas.
+Interstitial changes such as ground-glass opacities, reticular opacities, and cystic changes are seen on the dorsal side of both lower lobes.
+No other obvious active lesions in the lung field.
+Postoperative changes in the right breast. No obvious tumors or abnormal enhancement at the resection site or in the left breast.
+There is no pleural effusion.
+A hypodense lesion in the right lobe of the thyroid gland. Correlation with ultrasound recommended.
+No obvious abnormalities in the visualized upper abdomen.
+There is no ascites.
+No other significant findings.","{
+  ""T"": ""T0"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""T0: No definitive primary lung tumor identified (nodules in right lobes are suggested to be benign). N2: Enlarged lymph nodes in the mediastinum (ipsilateral mediastinal involvement). M0: No evidence of distant metastasis (no pleural effusion, ascites, or extrathoracic lesions confirmed as malignant).""
+}",deepseek-reasoner
+4624494,T2b,N0,M0,The primary tumor measures 50 mm (T2b as per size >40 mm and ≤50 mm) and shows visceral pleural invasion (T2 criterion). There is no definitive evidence of lymph node metastasis (enlarged nodes are not specified as malignant) or distant metastasis (no extrathoracic involvement or pleural effusion).,"There is an irregular mass with a diameter of 50 mm in the apex of the right lung. It appears to protrude into the subpleural adipose tissue near the origin of the right second rib, and pleural invasion on the visceral side may be present. The right hilum and mediastinal lymph nodes are slightly enlarged, but not of significant size. Emphysematous changes in the lungs. There are subpleural ground-glass and reticular opacities, which are considered to be interstitial changes. No pleural effusion.","{
+  ""T"": ""T2b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 50 mm (T2b as per size >40 mm and ≤50 mm) and shows visceral pleural invasion (T2 criterion). There is no definitive evidence of lymph node metastasis (enlarged nodes are not specified as malignant) or distant metastasis (no extrathoracic involvement or pleural effusion).""
+}",deepseek-reasoner
+4644367,T4,N3,M1c,"The primary tumor measures 72 mm (exceeding 70 mm, classifying it as T4). Enlarged supraclavicular lymph nodes (ipsilateral) indicate N3 involvement. Multiple osteolytic bone metastases (scapula and humerus) confirm M1c classification, while the pleural effusion further supports distant metastasis but does not alter the M1c designation.","Mass of 72 mm in the left lower lobe, suspicious of lung cancer. Infiltratative opacities and ground-glass opacities are seen on the peripheral side, suggesting obstructive pneumonia. Enlarged lymph nodes in the mediastinum, above the left clavicle, and in the left axilla, suggesting metastases. Small amount of left pleural effusion. Osteolytic lesions in the left scapula and humerus, suspicious of metastases. Subcutaneous lesion on the back, which is considered to be a sebaceous cyst or similar.","{
+  ""T"": ""T4"",
+  ""N"": ""N3"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 72 mm (exceeding 70 mm, classifying it as T4). Enlarged supraclavicular lymph nodes (ipsilateral) indicate N3 involvement. Multiple osteolytic bone metastases (scapula and humerus) confirm M1c classification, while the pleural effusion further supports distant metastasis but does not alter the M1c designation.""
+}",deepseek-reasoner
+4646850,T3,N1,M1c,"The primary tumor measures 35 mm (T2a), but the presence of a separate 8 mm nodule in the same lobe (left lower lobe) upgrades T to T3. Left hilar lymph node involvement indicates N1. Two liver metastases (extrathoracic and multiple) classify as M1c.","Pulmonary emphysematous changes. 
+There is an irregularly margined mass in the lower lobe of the left lung, approximately 35 mm in diameter, considered to be the known lung cancer. 
+Apart from this tumor, a nodule of 8 mm in diameter is present in the left lower lobe, suspicious of metastasis. 
+No other lesions suggesting lung metastasis. 
+Pathologically enlarged lymph nodes in the left hilum, suspicious of metastasis. 
+No pathological enlargement of lymph nodes in the mediastinum or supraclavicular fossa. 
+No pleural effusion is present. 
+In the liver, two hypovascular tumors with ill-defined margins are observed in the gallbladder bed, suspicious of metastasis. 
+These tumors are in contact with the gallbladder, and diffuse wall thickening is observed in the gallbladder. Therefore, infiltration into the gallbladder is considered. 
+No lesions suggestive of adrenal metastasis. 
+Bilateral renal cysts. 
+No significant abnormal findings in other abdominal organs. 
+No pathological enlargement of abdominal lymph nodes. 
+No ascites is present. 
+No bone destruction or sclerotic lesions suggestive of bone metastasis.","{
+  ""T"": ""T3"",
+  ""N"": ""N1"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 35 mm (T2a), but the presence of a separate 8 mm nodule in the same lobe (left lower lobe) upgrades T to T3. Left hilar lymph node involvement indicates N1. Two liver metastases (extrathoracic and multiple) classify as M1c.""
+}",deepseek-reasoner
+4760374,T4,N2,M1c,"The primary tumor in the right lower lobe (40 mm) is T2a, but the presence of a separate tumor nodule in the right upper lobe (different ipsilateral lobe) classifies T as T4. Right upper paratracheal lymph node involvement (mediastinal) indicates N2. Multiple liver metastases confirm M1c.","A lobulated tumor mass with a diameter of 40 mm is present in segment S6 of the right lower lobe of the lung, suspicious of lung cancer. A ground-glass nodule with lobulated margins is present in segment S2 of the right upper lobe, which may also be lung cancer (adenocarcinoma in situ).
+Emphysematous changes in the lung. No metastases or other lesions in the lungs.
+The right upper paratracheal lymph node is enlarged, suggesting metastasis. Enlarged lymph nodes are also suspected at the right hilum.
+A small amount of pleural effusion is present.
+Multiple hypodense tumors are found in the liver. Gallstones and common bile duct stones are found, and the intrahepatic bile ducts and the common bile duct are dilated. There are no CT findings suggesting biliary tumors such as thickening of the bile duct wall, and liver metastasis from lung cancer is more likely.
+Multiple enlarged lymph nodes at the hepatic hilum, which also suggests the possibility of metastasis.
+There are no obvious abnormalities in the pancreas, spleen, kidneys, adrenal glands, or pelvic organs.
+Ascites is present.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor in the right lower lobe (40 mm) is T2a, but the presence of a separate tumor nodule in the right upper lobe (different ipsilateral lobe) classifies T as T4. Right upper paratracheal lymph node involvement (mediastinal) indicates N2. Multiple liver metastases confirm M1c.""
+}",deepseek-reasoner
+4844803,T2b,N0,M0,The tumor measures 47 mm (T2b: >40 mm but ≤50 mm). No pathological lymph node enlargement indicates N0. Scattered lung nodules are not definitively classified as metastases (M0).,"Moderate emphysematous changes in the lungs.
+An irregularly margined tumor is observed in the central part of the left upper lung lobe. The margins are spiculated and the tumor has a maximum diameter of 47 mm. It is considered to be the known lung cancer. The tumor is  in broad contact with the interlobar pleura.
+The left pulmonary artery upper lobe branch is in broad contact with the tumor, and infiltration is suspected.
+The left upper lobe bronchus is compressed and narrowed by the tumor.
+There are scattered tiny nodules in both lung fields. Due to their small size, differentiation is difficult. Many are rectangular, and are mostly considered benign lesions, but it is possible that some of them are metastases.
+No pathological enlargement in the mediastinal and hilar lymph nodes.
+No pleural effusion.
+No gross lesions in the visualized upper abdomen, as far as can be assessed by CT.
+No bone destruction or bone sclerosis suggesting metastasis visualized.","{
+  ""T"": ""T2b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 47 mm (T2b: >40 mm but ≤50 mm). No pathological lymph node enlargement indicates N0. Scattered lung nodules are not definitively classified as metastases (M0).""
+}",deepseek-reasoner
+4850448,T4,N2,M1a,T4: Tumor invades mediastinum. N2: Ipsilateral mediastinal lymph node enlargement. M1a: Presence of pleural effusion (malignant pleural effusion is part of M1a).,"Mild emphysematous changes of the lungs are present. 
+The left upper lobe is atelectatic. An irregular soft tissue mass is located centrally, suggesting the possibility of lung cancer. There is a possibility of infiltration into the mediastinum.
+Left hilar lymph nodes are enlarged, suggesting the possibility of metastasis. Enlarged lymph nodes are also suspected in the same side mediastinum, suggesting the possibility of metastasis.
+A small amount of left pleural effusion is present.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M1a"",
+  ""Reason"": ""T4: Tumor invades mediastinum. N2: Ipsilateral mediastinal lymph node enlargement. M1a: Presence of pleural effusion (malignant pleural effusion is part of M1a).""
+}",deepseek-reasoner
+5033297,T3,N1,M1b,T3: Primary tumor (30 mm) in the left lower lobe with additional same-lobe tumor nodules (9 mm and 8 mm). N1: Left hilar lymph node enlargement suspicious for metastasis. M1b: Ill-defined hypodense liver lesion suspicious for single extrathoracic metastasis.,"No comparable imaging studies are available. 
+A lobulated tumor mass, approximately 30 mm in diameter is present in S6 of the left lower lobe of the lung. This is considered lung adenocarcinoma. A nodule of about 9 mm in diameter is in contact with the lesion, and a nodule of 8 mm in contact with the interlobar pleura is also seen within the same lobe, considered to be secondary tumor nodules. 
+No findings suggesting metastasis in other lobes of the lung. 
+Bullae are present in both lung apices. 
+Enlargement of the left hilar lymph nodes, suspicious of metastasis. No significant lymph node enlargement in other areas. 
+No pleural effusion. 
+An ill-defined hypodense lesion is present in the liver in contact with the gallbladder, suspicious of metastasis. 
+There are cysts and stones in both kidneys. 
+No obvious abnormalities in the gallbladder, pancreas, spleen, adrenal glands, or pelvic organs. 
+No significant lymph node enlargement in the abdomen and pelvis. 
+No ascites. 
+No other significant findings.","{
+  ""T"": ""T3"",
+  ""N"": ""N1"",
+  ""M"": ""M1b"",
+  ""Reason"": ""T3: Primary tumor (30 mm) in the left lower lobe with additional same-lobe tumor nodules (9 mm and 8 mm). N1: Left hilar lymph node enlargement suspicious for metastasis. M1b: Ill-defined hypodense liver lesion suspicious for single extrathoracic metastasis.""
+}",deepseek-reasoner
+5073667,T1c,N0,M0,The primary tumor measures exactly 30 mm (T1c). There is no evidence of lymph node involvement (N0) or distant metastasis (M0). The small nodule in the right lung apex is not confirmed as malignant (follow-up recommended) and thus does not meet criteria for T4 (ipsilateral different lobe) or M1a (contralateral).,"There is a solid tumor of 30 mm in S8 of the right lower lung lobe. It has a lobulated shape and is accompanied by pleural indentation. No sign of invasion beyond the interlobar pleura. No pulmonary metastasis. There is a small nodule in the apex of the right lung, follow up recommended. No pleural effusion. No gross abnormalities in the visualized abdominal organs.","{
+  ""T"": ""T1c"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures exactly 30 mm (T1c). There is no evidence of lymph node involvement (N0) or distant metastasis (M0). The small nodule in the right lung apex is not confirmed as malignant (follow-up recommended) and thus does not meet criteria for T4 (ipsilateral different lobe) or M1a (contralateral).""
+}",deepseek-reasoner
+5582789,T4,N2,M0,"T4: The primary tumor involves the tracheal bifurcation (carina) and major blood vessels, indicating invasion of structures specified in T4 criteria. N2: Mediastinal lymph node metastasis on the ipsilateral (right) side aligns with N2 classification. M0: No evidence of distant metastasis outside the thorax; the subpleural nodule in the right middle lobe is ipsilateral and classified under T4, not M1a (which requires contralateral involvement).","A soft tissue mass is present in the right hilum, suspected to be a conglomerate of lung cancer and hilar lymph node metastasis. Size evaluation is difficult. The mass is in contact with the tracheal bifurcation and major blood vessels, suggesting invasion. It is considered T4.
+A small round subpleural nodule is present in the right middle lobe. Based on its morphology, there is a possibility of metastasis.
+There is mediastinal lymph node metastasis on the right, but the opposite side lymph nodes are not enlarged. It is considered N2.
+Reticular opacities and ground-glass opacities are observed in the lower lobes of both lungs, suspecting interstitial pneumonia.
+No significant findings in the opposite lung.
+No pleural effusion.
+A hypodense nodule is present in the right lobe of the thyroid, recommended to follow up with ultrasound.
+No tumorous lesions in the liver or adrenal glands.
+No significant findings in the gallbladder, pancreas, or spleen.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""T4: The primary tumor involves the tracheal bifurcation (carina) and major blood vessels, indicating invasion of structures specified in T4 criteria. N2: Mediastinal lymph node metastasis on the ipsilateral (right) side aligns with N2 classification. M0: No evidence of distant metastasis outside the thorax; the subpleural nodule in the right middle lobe is ipsilateral and classified under T4, not M1a (which requires contralateral involvement).""
+}",deepseek-reasoner
+6231900,T4,N2,M1c,"The primary tumor measures 72 mm (exceeding 70 mm, qualifying as T4). Ipsilateral peritracheal lymph node involvement indicates N2. Multiple osteolytic bone metastases in the humerus and scapula classify as M1c.","A tumor-like lesion with irregular margins, measuring up to 72 mm in diameter, is present on the mediastinal side of the left lower lobe of the lung. The lesion shows heterogenous contrast enhancement. It is considered to correlate to the known cancer. The tumor is widely in contact with the pleura, but without clear mediastinal invasion. The left lower lobe bronchus is severely narrowed or occluded, and ground-glass opacities and infiltrative consolidations suggesting obstructive pneumonia are observed around the tumor. Also, thickening of the interlobular septa is seen around the tumor, possibly lymphangitic carcinomatosis. No lesions suspicious of metastasis to other lobes of the lung. There are numerous rounded enlarged peritracheal and axillary lymph nodes on the left, suggestive of metastasis. A small amount of left pleural effusion is present. No metastasis to the visualized liver or adrenal glands. There are osteolytic lesions in the proximal part of the left humerus and the left scapula, considered to be metastases.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 72 mm (exceeding 70 mm, qualifying as T4). Ipsilateral peritracheal lymph node involvement indicates N2. Multiple osteolytic bone metastases in the humerus and scapula classify as M1c.""
+}",deepseek-reasoner
+6232953,T2a,N2,M0,"The tumor involves the right main bronchus (T2 criteria). Although the size is 17 mm (T1b by size), main bronchus involvement upgrades it to T2. T2a is selected as the tumor size is ≤40 mm. Enlarged lymph nodes at the right hilum (N1) and subcarinal region (N2) indicate N2. No distant metastases (M0).","No comparable imaging studies are available. 
+A tumor of approximately 17 mm in diameter is observed at the right main bronchus. The bronchial lumen is narrowed and there is atelectasis peripheral thereof. 
+Soft tissue lesions, which are considered to be enlarged lymph nodes, are observed under the right hilum and the bifurcation of the trachea, suspicious of metastasis. 
+There are no obvious metastases or other active lesions in the lungs. 
+No pleural effusion. 
+No obvious abnormalities in the visualized upper abdomen. 
+No ascites. 
+No other significant findings.","{
+  ""T"": ""T2a"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor involves the right main bronchus (T2 criteria). Although the size is 17 mm (T1b by size), main bronchus involvement upgrades it to T2. T2a is selected as the tumor size is ≤40 mm. Enlarged lymph nodes at the right hilum (N1) and subcarinal region (N2) indicate N2. No distant metastases (M0).""
+}",deepseek-reasoner
+6363776,T4,N2,M0,T4 is assigned due to suspected separate tumor nodules in different ipsilateral lobes (scattered fine granular opacities in the right lung). N2 is based on mediastinal lymph node involvement. M0 is chosen as there is no explicit mention of contralateral pulmonary or extrathoracic metastases.,"Numerous tumorous lesions spreading from the right pulmonary hilum to the mediastinum, suspected to be small cell carcionma with lymph node enlargement. A nodule is present in the peripheral S3 of the right upper lobe, suspicious of pulmonary metastasis. In addition, there are scattered fine granular opacities, also suspicious of pulmonary metastases.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""T4 is assigned due to suspected separate tumor nodules in different ipsilateral lobes (scattered fine granular opacities in the right lung). N2 is based on mediastinal lymph node involvement. M0 is chosen as there is no explicit mention of contralateral pulmonary or extrathoracic metastases.""
+}",deepseek-reasoner
+6441303,T2a,N2,M1c,The primary tumor measures 40 mm (T2a). Pretracheal lymph node involvement indicates ipsilateral mediastinal metastasis (N2). Multiple liver lesions confirm multiple extrathoracic metastases (M1c).,"Emphysematous changes are prominent in the lungs. 
+There is a lobulated tumor of 40 mm in diameter in the right lower lobe, suggesting lung cancer. Multiple nodules and increased opacity along the airway in the surrounding area suggest obstructive pneumonia or metastatic nodules. 
+Ground-glass nodules are scattered in the right upper lobe, which may be inflammatory changes, but should be followed up to rule out malignancy. 
+The right hilar and pretracheal lymph nodes are enlarged and rounded, suggesting metastasis. 
+There are numerous ring-enhancing hypodense lesions in the liver, considered to be multiple liver metastases. 
+Gallstones. Renal cysts. 
+Ascites.","{
+  ""T"": ""T2a"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 40 mm (T2a). Pretracheal lymph node involvement indicates ipsilateral mediastinal metastasis (N2). Multiple liver lesions confirm multiple extrathoracic metastases (M1c).""
+}",deepseek-reasoner
+6574876,T0,N2,M0,"The radiology report does not describe the primary tumor's size or local invasion features, necessitating T0. Enlarged right mediastinal lymph nodes indicate N2. The S3 nodule is considered part of the T classification (T3/T4) if it represents a separate tumor in the same lung, but since the primary tumor cannot be assessed, M remains M0.","There are multiple enlarged lymph nodes in the right mediastinum and right hilum, consistent with known small cell carcinoma. A small nodule is observed in the right upper lobe S3, possibly a metastatic nodule. 
+There is mild interstitial opacitiy in the peripheral lung, possibly interstitial pneumonia. 
+No pleural effusion. 
+Postoperative changes in the right breast. 
+No significant axillary lymph node enlargement. 
+No obvious abnormalities in the visualized upper abdomen.","{
+  ""T"": ""T0"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""The radiology report does not describe the primary tumor's size or local invasion features, necessitating T0. Enlarged right mediastinal lymph nodes indicate N2. The S3 nodule is considered part of the T classification (T3/T4) if it represents a separate tumor in the same lung, but since the primary tumor cannot be assessed, M remains M0.""
+}",deepseek-reasoner
+6778649,T4,N3,M0,T4 due to suspected invasion of the left pulmonary artery (a great vessel). N3 because of enlarged contralateral (right hilar) lymph nodes. M0 as there are no confirmed distant metastases beyond pleural effusion (not confirmed as malignant).,"A tumor is present in the left pulmonary hilum, suggesting lung cancer. The right upper lobe bronchus is obstructed due to tumor infiltration, resulting in atelectasis of the left upper lobe. The border between the tumor and the atelectasis is difficult to evaluate. The left pulmonary artery is in contact with the tumor and is narrowed. Infiltration is suspected. Enlarged lymph nodes are observed in the left pulmonary hilum and mediastinum, suggesting metastasis. Enlarged lymph nodes are also prominent in the right pulmonary hilum, possibly metastasis. No findings suggest secondary tumor nodules in the lungs. Small left pleural effusion. No obvious abnormalities in the visualized upper abdomen.","{
+  ""T"": ""T4"",
+  ""N"": ""N3"",
+  ""M"": ""M0"",
+  ""Reason"": ""T4 due to suspected invasion of the left pulmonary artery (a great vessel). N3 because of enlarged contralateral (right hilar) lymph nodes. M0 as there are no confirmed distant metastases beyond pleural effusion (not confirmed as malignant).""
+}",deepseek-reasoner
+6793001,T4,N0,M0,"The primary tumor measures 120 mm (greater than 70 mm), classifying it as T4. Destruction of the left 3rd rib indicates chest wall invasion, which is a T4 criterion. No mediastinal lymph node enlargement suggests N0. No pleural effusion or distant metastasis is reported, supporting M0.","A 120 mm large tumor is present in the left lung apex, suggesting lung cancer. Destruction of the left 3rd rib suggests infiltration. No significant lymph node enlargement in the mediastinum. There is no pleural effusion.","{
+  ""T"": ""T4"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 120 mm (greater than 70 mm), classifying it as T4. Destruction of the left 3rd rib indicates chest wall invasion, which is a T4 criterion. No mediastinal lymph node enlargement suggests N0. No pleural effusion or distant metastasis is reported, supporting M0.""
+}",deepseek-reasoner
+6848850,T2a,N2,M1c,"The primary tumor measures 40 mm (greatest dimension), classifying it as T2a. Mediastinal lymph node enlargement indicates N2 (ipsilateral mediastinal metastasis). Multiple liver nodules and hepatoduodenal ligament nodules represent multiple extrathoracic metastases, categorizing as M1c.","Emphysema in both lungs.
+A lobulated tumorous lesion is present in the lower lobe of the right lung (maximum diameter 37×37×40mm). Primary lung cancer is suspected. Soft tissue masses are found in the bronchi. Bronchial mucus plugs are observed.
+Faint ground-glass opacities are scattered in both lungs.
+Lymph node enlargement is found in the mediastinum, suspicious of metastasis.
+Numerous nodules are found in the liver, suspected to be multiple liver metastases.
+Nodules are also observed in the hepatoduodenal ligament, possibly lymph node metastases.
+The common bile duct is dilated with stones present in the duct.","{
+  ""T"": ""T2a"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 40 mm (greatest dimension), classifying it as T2a. Mediastinal lymph node enlargement indicates N2 (ipsilateral mediastinal metastasis). Multiple liver nodules and hepatoduodenal ligament nodules represent multiple extrathoracic metastases, categorizing as M1c.""
+}",deepseek-reasoner
+6861476,T4,N2,M1c,T4: Tumor size (72 mm >70 mm) and mediastinal invasion. N2: Subcarinal lymph node enlargement (mediastinal involvement). M1c: Multiple extrathoracic bone metastases (humerus and scapula) and possible non-regional axillary lymph node involvement.,"There is a tumor with a major axis of 72 mm in the left lower lobe, suspicious of lung cancer. The tumor protrudes into the mediastinum and is in contact with the descending thoracic aorta, suggesting mediastinal invasion. There is interstitial thickening around the tumor, possibly carcinomatous lymphangitis.
+There is lymph node enlargement below the tracheal bifurcation, metastasis cannot be ruled out. In addition, multiple left axillary lymph nodes are enlarged, suspicious of metastasis.
+There is tumor formation in the head of the left humerus and in the scapula, suggesting bone metastasis.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""T4: Tumor size (72 mm >70 mm) and mediastinal invasion. N2: Subcarinal lymph node enlargement (mediastinal involvement). M1c: Multiple extrathoracic bone metastases (humerus and scapula) and possible non-regional axillary lymph node involvement.""
+}",deepseek-reasoner
+7127615,T2b,N0,M0,"The tumor measures 50 mm (greatest dimension), which falls within the T2b category (40-50 mm). There is no mention of lymph node involvement, indicating N0. No evidence of distant metastasis is reported, supporting M0.","There is a tumor with a long diameter of 50 mm in the right lung apex with spiculated margins. The morphology suggests lung cancer. Emphysematous changes in both lungs. 
+No pathological lymph node enlargement. No pleural effusion.
+No coarse lesions in the upper abdomen.","{
+  ""T"": ""T2b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 50 mm (greatest dimension), which falls within the T2b category (40-50 mm). There is no mention of lymph node involvement, indicating N0. No evidence of distant metastasis is reported, supporting M0.""
+}",deepseek-reasoner
+7245712,T4,N2,M1a,T4: Tumor invades mediastinum (protrusion into mediastinum suggesting invasion). N2: Enlarged ipsilateral mediastinal lymph nodes suspicious for metastasis. M1a: Presence of a small pleural effusion suspected to be malignant (pleural involvement).,"A tumor that has become a conglomerate with the hilar lymph nodes is seen on the central side of the left upper lobe. The left upper lobe bronchus is obstructed, and atelectasis is present, making it difficult to measure the size of the tumor. The tumor protrudes into the mediastinum, suggesting mediastinal invasion.
+There is enlargement of the mediastinal lymph nodes on the same side, suspicious of metastasis.
+A small amount of pleural effusion on the left, which might be malignant pleural effusion.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M1a"",
+  ""Reason"": ""T4: Tumor invades mediastinum (protrusion into mediastinum suggesting invasion). N2: Enlarged ipsilateral mediastinal lymph nodes suspicious for metastasis. M1a: Presence of a small pleural effusion suspected to be malignant (pleural involvement).""
+}",deepseek-reasoner
+7467648,T1c,N0,M1a,The primary tumor is 30 mm (T1c). No significant lymph node enlargement (N0). A pure GGN in the contralateral left lung apex qualifies as M1a (separate tumor nodule in a contralateral lobe).,"An irregular mass of 30 mm in size is observed in the right lower lobe, considered to be the suspected lung cancer. 
+A pure GGN is present in the left lung apex, which should be checked in follow-up. 
+Striated opacities suspicious of inflammatory scars are seen in both lower lobes. 
+No significant lymph node enlargement in the mediastinum. 
+There is no pleural effusion.","{
+  ""T"": ""T1c"",
+  ""N"": ""N0"",
+  ""M"": ""M1a"",
+  ""Reason"": ""The primary tumor is 30 mm (T1c). No significant lymph node enlargement (N0). A pure GGN in the contralateral left lung apex qualifies as M1a (separate tumor nodule in a contralateral lobe).""
+}",deepseek-reasoner
+7516987,T0,N3,M0,"The primary tumor is described as a 'small subpleural nodule' but lacks specific size measurements or invasive features required to assign a T1-T4 category, leading to T0. N3 is assigned due to enlarged contralateral mediastinal lymph nodes. M0 is determined as there is no evidence of distant metastasis beyond the thorax (no liver/adrenal involvement or pleural effusion).","There is a small subpleural nodule in the right upper lobe of the lung, S3, possibly lung cancer.
+There are subpleural reticular opacities of both lungs, suspecting interstitial pneumonia.
+The right hilar, ipsilateral, and contralateral mediastinal lymph nodes are enlarged, considered to be lymph node metastasis.
+No pleural effusion.
+No liver or adrenal metastasis.
+No gross abnormalities in the visualized abdominal organs.","{
+  ""T"": ""T0"",
+  ""N"": ""N3"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor is described as a 'small subpleural nodule' but lacks specific size measurements or invasive features required to assign a T1-T4 category, leading to T0. N3 is assigned due to enlarged contralateral mediastinal lymph nodes. M0 is determined as there is no evidence of distant metastasis beyond the thorax (no liver/adrenal involvement or pleural effusion).""
+}",deepseek-reasoner
+7547062,T1b,N0,M0,"The tumor measures 12 mm (T1b: >10 mm but ≤20 mm) in the right lower lobe with no evidence of invasion into proximal bronchi, pleura, or other structures. There is no significant lymph node enlargement (N0: no regional metastasis). No distant metastases are detected (M0).","Compared with the CT from August 2012.
+A nodule of about 12 mm in diameter is located in S9 of the right lower lobe. In the CT from August 2012, a focal ground-glass opacity was seen in the same area, which seems to be progressing. Lung cancer is known, and this lesion is considered cancerous based on the progression.
+Centrilobular emphysema is observed mainly in the upper lung.
+Mild interstitial changes are observed mainly in the periphery of both lower lobes.
+There are no obvious metastases or other active lesions in the lungs.
+There is no significant lymph node enlargement in the mediastinum or hilum.
+There is no pleural effusion. There is thickening with calcification in the left pleura, suggesting pleural plaques.
+Arteriosclerotic changes.
+Gallstones. There are no other obvious abnormalities in the visualized upper abdomen.
+No ascites.
+No other significant findings.","{
+  ""T"": ""T1b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 12 mm (T1b: >10 mm but ≤20 mm) in the right lower lobe with no evidence of invasion into proximal bronchi, pleura, or other structures. There is no significant lymph node enlargement (N0: no regional metastasis). No distant metastases are detected (M0).""
+}",deepseek-reasoner
+7616690,T1b,N0,M0,"The primary tumor is a 12 mm solid subpleural nodule in the right lower lobe (≤20 mm = T1b). No mediastinal/axillary lymph node enlargement indicates N0. No distant metastases are reported in the liver, adrenal glands, or abdomen (M0).","Emphysema is observed.
+Subpleural reticular opacities and ground-glass opacities are seen in both lower lobes, suggesting interstitial changes.
+There is a solid subpleural tumor with a long diameter of 12 mm of the right lower lobe. Compared to the previous examination, it has increased in size, suggesting primary lung cancer. It is considered T1b.
+No enlargement of the mediastinal and axillary lymph nodes.
+No pleural effusion.
+Calcified pleural thickening, suggesting pleural plaques.
+Coronary calcification.
+No tumorous lesions in the liver and adrenal glands.
+Gallstones.
+No significant findings in the visualized abdominal organs.","{
+  ""T"": ""T1b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor is a 12 mm solid subpleural nodule in the right lower lobe (≤20 mm = T1b). No mediastinal/axillary lymph node enlargement indicates N0. No distant metastases are reported in the liver, adrenal glands, or abdomen (M0).""
+}",deepseek-reasoner
+7656084,T4,N2,M0,"The tumor measures 120 mm (exceeding 70 mm, qualifying as T4). Enlarged lymph nodes in the mediastinum (ipsilateral mediastinal involvement, N2). No distant metastasis or pleural effusion (M0).","No comparable imaging studies are available. 
+A tumor mass measuring 120 mm in diameter is observed in the left lung apex. The tumor extends to the chest wall and ribs, accompanied by bone destruction. This is considered indicative of lung cancer with chest wall invasion. 
+No obvious metastasis or other active lesions in the lung field. 
+Enlarged lymph nodes in the left hilum and mediastinum, suggesting possible metastasis. 
+No other significant lymph node enlargement visualized. 
+No pleural effusion. 
+No obvious abnormalities in the visualized upper abdomen. 
+No ascites. 
+No other significant findings.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 120 mm (exceeding 70 mm, qualifying as T4). Enlarged lymph nodes in the mediastinum (ipsilateral mediastinal involvement, N2). No distant metastasis or pleural effusion (M0).""
+}",deepseek-reasoner
+7751255,T1c,N0,M0,"The primary tumor measures 30 mm (T1c). No lymph node enlargement (N0). Contralateral GGNs are not confirmed as metastatic, and no other metastases are reported (M0).","No comparable imaging studies are available. A lobulated tumor mass, approximately 30 mm in diameter, is present in S8 of the right lower lobe of the lung, accompanied by a slight ground-glass opacity in its periphery. This is considered to be a finding of known lung cancer. Multiple pure GGNs up to about 10 mm are found in the upper and lingular segments of the left lung, which can't be ruled out as neoplastic lesions such as atypical adenomatous hyperplasia (AAH). There are no obvious metastases or other active lesions in the lungs. There is no significant lymph node enlargement in the mediastinum or hilum. There is no pleural effusion. There are no obvious abnormalities in the visualized upper abdomen. No ascites. No other significant findings.","{
+  ""T"": ""T1c"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 30 mm (T1c). No lymph node enlargement (N0). Contralateral GGNs are not confirmed as metastatic, and no other metastases are reported (M0).""
+}",deepseek-reasoner
+7793337,T2a,N0,M0,"The tumor measures 30 mm (T1c by size), but T2 is assigned due to visceral pleural invasion (interlobar pleura involvement). Since the size is exactly 30 mm, the T2a category applies (30-40 mm). N0 as no mediastinal/hilar lymphadenopathy. M0 with no distant metastases observed.","A nodular infiltratative opacity of 30 mm in diameter is present in the right lower lobe S8, corresponding to known lung cancer. It is in extensive contact with the interlobar pleura, suggesting infiltration. No findings suspicious of metastasic nodules are observed in both lungs. Striated opacities are present in both lower lobes, likely inflammatory scarring.
+No significant enlargement of the mediastinal or hilar lymph nodes, or other mediastinal organ lesions.
+No pleural effusion.
+No obvious abnormalities in the visualized upper abdomen.","{
+  ""T"": ""T2a"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 30 mm (T1c by size), but T2 is assigned due to visceral pleural invasion (interlobar pleura involvement). Since the size is exactly 30 mm, the T2a category applies (30-40 mm). N0 as no mediastinal/hilar lymphadenopathy. M0 with no distant metastases observed.""
+}",deepseek-reasoner
+7943636,T2a,N3,M0,"The tumor involves the right main bronchus (T2 feature), qualifying as T2 regardless of size (17 mm). T2a is selected per required subcategorization. Left supraclavicular lymph nodes (contralateral) suggest N3. Suspected pleural effusion is not confirmed as malignant, thus M0.","A nodular mass measuring 17 mm in diameter is found in the right main bronchus. No lesions are seen in the bronchial bifurcation, thus the tumor is considered T2. Obstructive atelectasis is present. No significant findings in other lung segments. Lymph nodes in the left supraclavicular fossa are enlarged, suspecting N3. Pleural effusion on the right. Please rule out malignant pleural effusion after confirming with cytology. No significant findings in the visualized abdominal organs.","{
+  ""T"": ""T2a"",
+  ""N"": ""N3"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor involves the right main bronchus (T2 feature), qualifying as T2 regardless of size (17 mm). T2a is selected per required subcategorization. Left supraclavicular lymph nodes (contralateral) suggest N3. Suspected pleural effusion is not confirmed as malignant, thus M0.""
+}",deepseek-reasoner
+8100850,T2a,N3,M0,"The tumor (17 mm) in the right main bronchus qualifies as T2 due to main bronchus involvement. T2a is selected based on the user's requirement to subclassify T2, despite the size <30 mm. The hypodense nodule below the left thyroid lobe suggests contralateral supraclavicular lymph node metastasis (N3). No distant metastases (M0) are confirmed.","There is a nodule measuring 17 mm in diameter in the right main bronchus, which correlates to the known mucinous squamous cell carcinoma. The right lower lobe bronchus is obstructed. The right lower lobe is collapsed. A small amount of pleural effusion on the right. No secondary tumor nodules in the ventilated lung. There is a hypodense nodule directly below the left lobe of the thyroid, possibly lymph node metastasis.
+No significant enlargement of other mediastinal and hilar lymph nodes, or other mediastinal organic lesions.
+No pleural effusion.
+No obvious abnormalities in the visualized upper abdomen.","{
+  ""T"": ""T2a"",
+  ""N"": ""N3"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor (17 mm) in the right main bronchus qualifies as T2 due to main bronchus involvement. T2a is selected based on the user's requirement to subclassify T2, despite the size <30 mm. The hypodense nodule below the left thyroid lobe suggests contralateral supraclavicular lymph node metastasis (N3). No distant metastases (M0) are confirmed.""
+}",deepseek-reasoner
+8221825,T4,N2,M0,"T4: Tumor size (120 mm) exceeds 70 mm and invades the chest wall (third rib) and mediastinum. N2: Enlarged ipsilateral mediastinal lymph nodes. M0: No confirmed distant metastasis beyond the ipsilateral lung (the peripheral left upper lobe nodule is not definitively metastatic and, if part of the primary, would fall under T3/T4 criteria).","A tumor with a major axis of 120 mm is located in the upper and lower lobe of the left lung, suspecting lung cancer. The tumor is destroying the third rib and infiltrating the chest wall. Also, mediastinal infiltration is suspected, and it is in close proximity to the aortic arch. There is a small nodule in the peripheral left upper lobe, a metastatic nodule cannot be ruled out. The left hilar and ipsilateral mediastinal lymph nodes are enlarged, suspicious of metastasis.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""T4: Tumor size (120 mm) exceeds 70 mm and invades the chest wall (third rib) and mediastinum. N2: Enlarged ipsilateral mediastinal lymph nodes. M0: No confirmed distant metastasis beyond the ipsilateral lung (the peripheral left upper lobe nodule is not definitively metastatic and, if part of the primary, would fall under T3/T4 criteria).""
+}",deepseek-reasoner
+8235226,T4,N0,M0,"The tumor measures 47 mm (T2b by size), but suspected mediastinal fat infiltration qualifies as T4. No lymph node enlargement suggests N0. No distant metastasis indicates M0.","Moderate chronic pulmonary emphysema. An irregular tumor with a long diameter of 47 mm is seen in the left upper lobe at the pulmonary hilum, suspicious primary lung cancer. It is in extensive contact with the interlobar pleura, suggesting infiltration. Mediastinal fat infiltration is also suspected. No significant enlargement of mediastinal and hilar lymph nodes or other mediastinal organ lesions. No pleural effusion. No obvious abnormalities in the visualized upper abdomen.","{
+  ""T"": ""T4"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 47 mm (T2b by size), but suspected mediastinal fat infiltration qualifies as T4. No lymph node enlargement suggests N0. No distant metastasis indicates M0.""
+}",deepseek-reasoner
+8602016,T2a,N3,M1a,The right hilar mass with right lower lobe atelectasis meets T2 criteria (atelectasis extending to hilar region). T2a is assigned as the default subcategory in the absence of explicit tumor size. The left supraclavicular lymph node nodule indicates N3 (contralateral supraclavicular involvement). The right pleural effusion is classified as M1a (malignant pleural effusion) given the clinical context of malignancy.,"A soft tissue mass in the right hilum correlating to the suspected malignant tumor. The right lower lobe is atelectatic.
+A nodule is seen above the left clavicle, possibly lymph node metastasis.
+A small amount of pleural effusion on the right.","{
+  ""T"": ""T2a"",
+  ""N"": ""N3"",
+  ""M"": ""M1a"",
+  ""Reason"": ""The right hilar mass with right lower lobe atelectasis meets T2 criteria (atelectasis extending to hilar region). T2a is assigned as the default subcategory in the absence of explicit tumor size. The left supraclavicular lymph node nodule indicates N3 (contralateral supraclavicular involvement). The right pleural effusion is classified as M1a (malignant pleural effusion) given the clinical context of malignancy.""
+}",deepseek-reasoner
+8760223,T4,N0,M1c,"The primary tumor measures 40 mm (T2a by size), but the presence of a separate focal ground-glass opacity in the right upper lobe (different ipsilateral lobe) qualifies as T4. No mediastinal lymph node enlargement indicates N0. Multiple liver metastases confirm M1c (multiple extrathoracic metastases).","There is a lobulated tumor with a maximum diameter of 40 mm in S6 of the right lower lobe. It is surrounded by a ground-glass opacities, and it is considered to be lung cancer. There is a tubular structure continuous with the tumor, and its lumen is enhanced. There is a possibility that the tumor has infiltrated the bronchus. There is a focal ground-glass opacity in the right upper lobe, which could be a finding of lung cancer. No mediastinal lymph node enlargement. No pleural effusion. There are multiple hypodense tumors in the liver, considered to be multiple liver metastases.","{
+  ""T"": ""T4"",
+  ""N"": ""N0"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 40 mm (T2a by size), but the presence of a separate focal ground-glass opacity in the right upper lobe (different ipsilateral lobe) qualifies as T4. No mediastinal lymph node enlargement indicates N0. Multiple liver metastases confirm M1c (multiple extrathoracic metastases).""
+}",deepseek-reasoner
+8811397,T2b,N2,M1b,The primary tumor measures 46 mm (T2b: >40 mm and ≤50 mm). Enlarged right mediastinal lymph nodes indicate ipsilateral mediastinal metastasis (N2). The left adrenal gland enlargement suggests a single extrathoracic metastasis (M1b).,"There is a lobulated irregular tumor measuring 46 mm in the right lung apex, which is considered to be known of lung cancer. The right mediastinal lymph nodes are enlarged, suggesting metastasis. The left adrenal gland is significantly enlarged, possibly metastasis. No pleural effusion.","{
+  ""T"": ""T2b"",
+  ""N"": ""N2"",
+  ""M"": ""M1b"",
+  ""Reason"": ""The primary tumor measures 46 mm (T2b: >40 mm and ≤50 mm). Enlarged right mediastinal lymph nodes indicate ipsilateral mediastinal metastasis (N2). The left adrenal gland enlargement suggests a single extrathoracic metastasis (M1b).""
+}",deepseek-reasoner
+9175672,T3,N2,M1b,"T3: The presence of a secondary tumor nodule in the same lobe (right upper lobe) as the primary tumor. N2: Enlarged ipsilateral mediastinal lymph nodes. M1b: Single extrathoracic metastasis in the left adrenal gland (tumor mass), with no other distant metastases reported.","Enlarged lymph nodes in the right pulmonary hilum and the mediastinum, raising suspicion for lung cancer. Small lymph nodes can also be seen in the left mediastinum, but their size is not significant. 
+There is a nodule in the right upper lobe, considered to be a secondary tumor nodule within the same lobe.
+Ground-glass opacities and reticular opacities are distributed mainly in the lower lung and subpleural area on the right, consistent with interstitial pneumonia. 
+No pleural effusion.
+The patient has a history of right breast cancer treatment. No obvious local recurrence or axillary lymph node enlargement.
+The left adrenal gland is enlarged with an obvious tumor mass, but please follow up to rule out metastasis.
+No obvious metastasis in the liver, gallbladder, pancreas, spleen, or kidneys.","{
+  ""T"": ""T3"",
+  ""N"": ""N2"",
+  ""M"": ""M1b"",
+  ""Reason"": ""T3: The presence of a secondary tumor nodule in the same lobe (right upper lobe) as the primary tumor. N2: Enlarged ipsilateral mediastinal lymph nodes. M1b: Single extrathoracic metastasis in the left adrenal gland (tumor mass), with no other distant metastases reported.""
+}",deepseek-reasoner
+9262204,T1b,N0,M0,The 12 mm subpleural nodule (12 mm >10 mm but ≤20 mm) in the right lower lobe falls under T1b. There is no lymph node enlargement (N0). No evidence of distant metastasis (M0).,"There is a 12 mm subpleural nodule of the right lower lobe in S9, surrounded by ground-glass opacity. Compared to the CT in August 2012, it has increased in size, and we suspect lung cancer. There are subpleural reticular opacities and ground-glass opacities in both lungs, consistent with interstitial pneumonia. There is a cavitary lesion in the right lower lobe S6, which may be a post-inflammatory change. No pleural effusion. No lymph node enlargement. Gallstones. No other gross abnormalities in the visualized abdominal organs.","{
+  ""T"": ""T1b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The 12 mm subpleural nodule (12 mm >10 mm but ≤20 mm) in the right lower lobe falls under T1b. There is no lymph node enlargement (N0). No evidence of distant metastasis (M0).""
+}",deepseek-reasoner
+9524486,T1b,N0,M0,"T1b: Subpleural nodule measures 12 mm (≤20 mm) without invasion beyond visceral pleura. N0: Mediastinal lymph nodes are attributed to reactive hyperplasia, not metastasis. M0: No evidence of distant metastasis reported.","Emphysema and interstitial changes in both lungs. Thickening and calcification of the pleura on both sides. Asbestosis seems to be present.
+An irregular subpleural nodule is found in the right lung in S9 (approximately 12 mm), possibly primary lung cancer associated with asbestosis.
+Multiple mediastinal lymph nodes, but considering the size of the lung cancer, lymph node hyperplasia related to asbestosis or chronic inflammation is more likely.","{
+  ""T"": ""T1b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""T1b: Subpleural nodule measures 12 mm (≤20 mm) without invasion beyond visceral pleura. N0: Mediastinal lymph nodes are attributed to reactive hyperplasia, not metastasis. M0: No evidence of distant metastasis reported.""
+}",deepseek-reasoner
+9635688,T1c,N0,M0,The primary tumor measures 30 mm (T1c). No pleural invasion or lymph node enlargement (N0). No distant metastases (M0). The other lung nodules are not confirmed as malignant metastases and are considered pre-cancerous for follow-up.,"A dense ground-glass opacity measuring 30 mm in diameter is located in S8 of the right lower lung lobe. It is somewhat indistinct and partially lobulated. It is considered to be consistent with a cancerous lesion. No clear pleural invasion.
+Multiple ground-glass opacities of several millimeters in both upper lung lobes, possibly pre-cancerous lesions, recommended for follow-up.
+No lesions suggestive of lung metastasis.
+A cord-like opacity is observed in the left lower lung lobe, considered to be a finding of old inflammatory changes.
+No pathological enlargement of the mediastinal and hilar lymph nodes.
+No pleural effusion.
+No significant abnormalities in the visualized upper abdomen.
+No bone destruction or sclerotic lesions suggestive of metastasis in the visualized bones.","{
+  ""T"": ""T1c"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 30 mm (T1c). No pleural invasion or lymph node enlargement (N0). No distant metastases (M0). The other lung nodules are not confirmed as malignant metastases and are considered pre-cancerous for follow-up.""
+}",deepseek-reasoner
+9651856,T1b,N0,M0,"The primary tumor is a 12 mm nodule on the pleura of the right lower lobe (≤20 mm, qualifying as T1b). No pleural invasion or features of higher T categories. No lymph node enlargement (N0). No distant metastasis (M0) is explicitly stated.","Plaques with some coarse calcification are scattered on both pleurae, suggesting asbestos-related pleural disease. Mild emphysematous changes of the lung parenchyma. Ground-glass opacities and reticular opacities are seen in the peripheral lung parenchyma, predominantly in the lower lobes on both sides, suggesting interstitial pneumonia. An irregular nodule is present on the pleura of the right lower lobe, with a long diameter of 12 mm, which is considered to be the indicated cancer lesion. No pleural invasion. No lesions suggesting lung metastasis. There is no pathological enlargement of the mediastinal and hilar lymph nodes, or the supraclavicular lymph nodes. No pleural effusion. No metastasis in the visualized liver and adrenal glands. Gallstones. No signs of cholecystitis. No bone destruction or sclerotic lesions suggesting bone metastasis.","{
+  ""T"": ""T1b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor is a 12 mm nodule on the pleura of the right lower lobe (≤20 mm, qualifying as T1b). No pleural invasion or features of higher T categories. No lymph node enlargement (N0). No distant metastasis (M0) is explicitly stated.""
+}",deepseek-reasoner
+9673524,T2b,N3,M1b,The tumor measures 46 mm (T2b: >40 mm but ≤50 mm). Contralateral mediastinal lymph node enlargement indicates N3. Left adrenal gland enlargement suggests a single extrathoracic metastasis (M1b).,"There is a lobulated tumor with a maximum diameter of 46 mm in the right lung apex. It is accompanied by a ground-glass opacity around it. The tumor is considered to be lung cancer. No pleural effusion. The right hilar, ipsilateral, and contralateral mediastinal lymph nodes are enlarged, suspicious of lymph node metastasis. No pleural effusion. The left adrenal gland is enlarged, suspicious of adrenal metastasis.","{
+  ""T"": ""T2b"",
+  ""N"": ""N3"",
+  ""M"": ""M1b"",
+  ""Reason"": ""The tumor measures 46 mm (T2b: >40 mm but ≤50 mm). Contralateral mediastinal lymph node enlargement indicates N3. Left adrenal gland enlargement suggests a single extrathoracic metastasis (M1b).""
+}",deepseek-reasoner
+9745005,T2b,N0,M0,The primary tumor measures 47 mm (T2b: >40 mm but ≤50 mm) and invades the visceral pleura (T2 criterion). No pathological lymph nodes (N0). No distant metastasis (M0).,"Emphysema.
+There is a solid mass with a maximum diameter of 47 mm in the upper lobe of the left lung, without any air inside, suspicious of primary lung cancer. Invasion of the visceral pleura is suspected. There are no findings suggesting lung metastasis.
+No pathological lymph node enlargement in the mediastinum or hilum.","{
+  ""T"": ""T2b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 47 mm (T2b: >40 mm but ≤50 mm) and invades the visceral pleura (T2 criterion). No pathological lymph nodes (N0). No distant metastasis (M0).""
+}",deepseek-reasoner
+9818606,T2a,N2,M1c,The primary tumor measures 40 mm (T2a). Upper mediastinal lymph nodes suggest N2. Multiple liver lesions and possible porta hepatis lymph node metastases indicate multiple extrathoracic metastases (M1c).,"Emphysematous changes of the lung parenchyma.
+A tumor with a diameter of 40 mm is located in the lower lobe of the right lung. It has a lobulated shape, and lung cancer is strongly suspected. There are multiple granular opacities and mucus plugs in the periphery, which are considered to be signs of obstructive pneumonia. 
+Ground-glass opacities in both upper lobes of the lungs. Small nodules are scattered along the pleura of the left lung. Both are suspected to be post-inflammatory changes. 
+No lesions suggestive of lung metastasis.
+Multiple rounded lymph nodes in the upper mediastinum without pathological enlargment, but likely to be metastases. 
+No pleural effusion. 
+A faint hyperdense stone with a diameter of 13 mm is observed in the lower part of the common bile duct. The upstream bile duct is dilated, which is considered to be due to stone impaction. 
+Numerous gallstones. The gallbladder is enlarged and its wall is thickened, possibly with accompanying inflammation.
+Multiple poorly defined hypodense tumors in the liver, primarily suspicious of metastes, but coexistence of liver abscesses is also considered.
+Multiple enlarged, nearly round lymph nodes in the porta hepatis, possibly metastases.
+No pathological enlargement of other abdominal lymph nodes. 
+No lesions suggestive of adrenal metastasis.
+There is a cyst in the left kidney. 
+No significant abnormalities in the pancreas and spleen. 
+No obvious tumors in the gastrointestinal tract. 
+Ascites. 
+No bone destruction or sclerotic lesions strongly suggestive of metastasis in the visualized bones.","```json
+{
+  ""T"": ""T2a"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 40 mm (T2a). Upper mediastinal lymph nodes suggest N2. Multiple liver lesions and possible porta hepatis lymph node metastases indicate multiple extrathoracic metastases (M1c).""
+}
+```",deepseek-reasoner
+9905822,T3,N2,M1b,The tumor (46 mm) is classified as T3 due to parietal pleural invasion at the lung apex. N2 is assigned due to metastasis in ipsilateral mediastinal lymph nodes (level 4R). M1b is selected because there is a single extrathoracic metastasis in the left adrenal gland with no other lesions.,"A tumor with a major axis of 46 mm is located in the right lung apex, surrounded by spiculated opacities. Primary lung cancer is suspected. Pleural invasion is present at the lung apex, considered as T3.
+Bullae are scattered in the left upper lobe of the lung.
+Enlargement of the mediastinal lymph nodes in level 4R, suspecting metastasis. No enlargement of the lymph nodes on the opposite side, considered as N2.
+No pleural effusion.
+There is a tumor with a major axis of 58 mm in the left adrenal gland, suspicious of metastasis. No other lesions suspected of metastasis, considered as M1b.
+No other significant findings in the visualized abdomen.","{
+  ""T"": ""T3"",
+  ""N"": ""N2"",
+  ""M"": ""M1b"",
+  ""Reason"": ""The tumor (46 mm) is classified as T3 due to parietal pleural invasion at the lung apex. N2 is assigned due to metastasis in ipsilateral mediastinal lymph nodes (level 4R). M1b is selected because there is a single extrathoracic metastasis in the left adrenal gland with no other lesions.""
+}",deepseek-reasoner
+10223615,T1c,N0,M0,"The tumor measures 30 mm (T1c size criteria ≤30 mm) and is located subpleurally with pleural retraction. However, the radiology report does not explicitly confirm visceral pleural invasion (required for T2 classification). No lymph node involvement or distant metastasis is mentioned, leading to N0 and M0.","A lobulated irregular mass of about 30 mm is located in the subpleural area of the peripheral right lung lower lobe in S8. The main component is solid, but ground-glass opacities can also be seen in its periphery. Pleural retraction is also observed. Primary lung cancer is suspected.","{
+  ""T"": ""T1c"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 30 mm (T1c size criteria ≤30 mm) and is located subpleurally with pleural retraction. However, the radiology report does not explicitly confirm visceral pleural invasion (required for T2 classification). No lymph node involvement or distant metastasis is mentioned, leading to N0 and M0.""
+}",deepseek-reasoner
+10320785,T4,N2,M1a,"T4: Tumor involves mediastinum (T4 criteria) and has a separate ipsilateral pleural nodule (T4). N2: Spread to mediastinal lymph nodes (N2). M1a: Pleural nodule suspicious for metastasis (M1a). Primary tumor size is unspecified, but mediastinal invasion and separate nodule justify T4.","Multiple tumors are present, spreading from the right hilum to the mediastinum. It is considered to be known small cell carcinoma and its metastases. The size of the primary tumor is unknown.
+There is a pleura-based nodule in the right upper lobe, suspicious of metastasis.
+Reticular opacities are located in the peripheral lung parenchyma, predominantly in the lower lobe. Interstitial pneumonia is suspected.
+No findings suggesting recurrence of breast cancer or lymph node metastasis in both breasts, parasternal, axillary, and supraclavicular fossa.
+No pleural effusion.
+No lesions suspected of metastasis in the visualized upper abdomen.
+No bone destruction or bone sclerosis suggesting bone metastasis.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M1a"",
+  ""Reason"": ""T4: Tumor involves mediastinum (T4 criteria) and has a separate ipsilateral pleural nodule (T4). N2: Spread to mediastinal lymph nodes (N2). M1a: Pleural nodule suspicious for metastasis (M1a). Primary tumor size is unspecified, but mediastinal invasion and separate nodule justify T4.""
+}",deepseek-reasoner
+10405379,T2a,N0,M0,"The 17 mm tumor involves the right main bronchus (T2 criterion for main bronchus involvement regardless of size). Despite the size <30 mm, T2a is selected due to the requirement to specify T2a/T2b. No lymph node enlargement (N0) and no confirmed malignant pleural effusion (M0).","There is a nodule of 17 mm in diameter in the right main bronchus, which appears to be part of the known mucinous squamous cell carcinoma. The right lower lobe branch is obstructed, causing atelectasis of the lower lobe. Pleural effusion on the right. No pathological lymph node enlargement. No significant lesions in the visualized upper abdomen.","{
+  ""T"": ""T2a"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The 17 mm tumor involves the right main bronchus (T2 criterion for main bronchus involvement regardless of size). Despite the size <30 mm, T2a is selected due to the requirement to specify T2a/T2b. No lymph node enlargement (N0) and no confirmed malignant pleural effusion (M0).""
+}",deepseek-reasoner
+11013624,T4,N2,M0,T4: Tumor size (120 mm) exceeds 70 mm. N2: Ipsilateral mediastinal lymph node enlargement. M0: No distant metastasis (no adrenal metastasis or pleural effusion noted).,"There is a large 120 mm hypodense tumor in the left upper lobe, considered to be lung cancer. It is widely in contact with the pleura on the mediastinal side, and pleural invasion is suspected. There is no direct invasion to the mediastinum. The left pulmonary hilum and ipsilateral mediastinal lymph nodes are enlarged, suspicious of metases. The left third rib is directly invaded by the tumor. No pleural effusion. No adrenal metastasis.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""T4: Tumor size (120 mm) exceeds 70 mm. N2: Ipsilateral mediastinal lymph node enlargement. M0: No distant metastasis (no adrenal metastasis or pleural effusion noted).""
+}",deepseek-reasoner
+11044030,T0,N2,M0,"The report identifies a small nodule in the right upper lobe suspected as a primary lesion, but insufficient details on size or invasive features prevent definitive T1/T2 classification, warranting T0. Mediastinal lymph node enlargement aligns with N2 (ipsilateral mediastinal involvement). No pleural effusion or distant metastases indicate M0.","There is a noticeable chain-like lymph node enlargement in the mediastinum, which is believed to be a known lymph node lesion. A small nodule is observed in the right upper lobe. Could this be a primary lung cancer lesion? No pleural effusion.","{
+  ""T"": ""T0"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""The report identifies a small nodule in the right upper lobe suspected as a primary lesion, but insufficient details on size or invasive features prevent definitive T1/T2 classification, warranting T0. Mediastinal lymph node enlargement aligns with N2 (ipsilateral mediastinal involvement). No pleural effusion or distant metastases indicate M0.""
+}",deepseek-reasoner
+11079957,T4,N0,M1c,"The primary tumor measures 72 mm (>70 mm), classifying it as T4. Separate tumor nodules in the ipsilateral upper lobe (different lobe from primary) further support T4. No regional lymph node involvement is described, hence N0. Osteolytic bone metastases (scapula and humerus) and numerous distant left axillary lymph node metastases indicate multiple extrathoracic metastases, resulting in M1c.","A solid tumor-like lesion of approximately 72 mm is located in the center of the left lung's lower lobe, S10. Primary lung cancer is suspected. It is in contact with the pleura, and pleural invasion is suspected. Pleural effusion and pleural thickening are noted, suspecting pleural dissemination.
+There are nodules in the upper lobe of the left lung, suspicious of intra-lobe metastasis on the same side.
+Numerous enlarged lymph nodes in the left axilla, suspicious of distant lymph node metastases.
+Osteolytic lesions in the left scapula and humerus, forming tumor-like masses, suggesting bone metastases.
+A nodule is observed in the mid-dorsal subcutaneous area, which is cystic, and a sebaceous cyst is suspected here.","{
+  ""T"": ""T4"",
+  ""N"": ""N0"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 72 mm (>70 mm), classifying it as T4. Separate tumor nodules in the ipsilateral upper lobe (different lobe from primary) further support T4. No regional lymph node involvement is described, hence N0. Osteolytic bone metastases (scapula and humerus) and numerous distant left axillary lymph node metastases indicate multiple extrathoracic metastases, resulting in M1c.""
+}",deepseek-reasoner
+11117507,T2b,N0,M0,The tumor measures 50 mm (T2b category: >40 mm but ≤50 mm). Pleural invasion is suspected (T2 criterion: invades visceral pleura). There is no mention of lymph node involvement (N0) and no distant metastasis (M0).,"There is a 50 mm neoplastic lesion with spiculated margins in the right lung apex. It is widely in contact with the pleura, and pleural invasion is suspected. There is no invasion to the ribs. Both lungs have subpleural reticular opacities and ground-glass opacities, suggesting interstitial pneumonia. No lung metastasis. No pleural effusion. No liver or adrenal metastasis.","{
+  ""T"": ""T2b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 50 mm (T2b category: >40 mm but ≤50 mm). Pleural invasion is suspected (T2 criterion: invades visceral pleura). There is no mention of lymph node involvement (N0) and no distant metastasis (M0).""
+}",deepseek-reasoner
+11328933,T1c,N0,M1a,T1c: The solid component of the primary tumor in the right lower lobe measures 30 mm (T1c is defined as >20 mm but ≤30 mm). N0: No mediastinal/hilar lymph node enlargement. M1a: A separate ground-glass nodule in the contralateral lung (left apex) qualifies as M1a ('separate tumor nodule(s) in a contralateral lobe').,"In the coronary reconstruction images, mixed ground-glass opacity (GGO) is observed in the right lower lobe of the lung, considered to be the known lung cancer. The solid part is 30 mm in diameter, which is considered T1c.
+A ground-glass nodule is also seen in the apex of the left lung. Although small, it is nearly fully rounded and well-differentiated adenocarcinoma cannot be ruled out. Please confirm histologically if there is an increase in size in follow-up.
+No mediastinal or hilar lymph node enlargement.
+No pleural effusion.
+No significant findings in the visualized abdominal organs.","{
+  ""T"": ""T1c"",
+  ""N"": ""N0"",
+  ""M"": ""M1a"",
+  ""Reason"": ""T1c: The solid component of the primary tumor in the right lower lobe measures 30 mm (T1c is defined as >20 mm but ≤30 mm). N0: No mediastinal/hilar lymph node enlargement. M1a: A separate ground-glass nodule in the contralateral lung (left apex) qualifies as M1a ('separate tumor nodule(s) in a contralateral lobe').""
+}",deepseek-reasoner
+11595888,T3,N0,M0,"The tumor measures 50 mm (T2b size criteria), but T3 is assigned due to direct invasion into the chest wall (right second rib osteolytic lesions with infiltration). N0 is selected as mediastinal/hilar lymph nodes are described as reactive without pathological enlargement. M0 is assigned since the adrenal lesion is uncertain and requires further evaluation, with no confirmed distant metastasis.","A 50 mm tumor is located in the apex of the right lung, in contact with the pleura. The tumor has irregular margins and spiculated appearance. Osteolytic lesions are observed in the right second rib in contact with the tumor, suggesting infiltration. These findings strongly suggest lung cancer. Emphysematous changes are observed in the lung parenchyma. Ground glass opacities and reticular opacities are present in the peripheral lung parenchyma, suggesting emphysema complicated by interstitial pneumonia. No findings suggestive of metastasis in the lungs. Numerous mildly enlarged lymph nodes in the mediastinum and hilar region, which are considered to be reactive enlargement. There is no pathological enlargement. No pleural effusion. Diffuse enlargement of the thyroid gland. Please evaluate thyroid function. There seems to be a tumor in the left adrenal gland, but it's only partially visualized and difficult to evaluate. Due to the lack of native CT images, it is also difficult to evaluate density values and contrast enhancement. There is a possibility of metastasis, so further detailed examination with MRI or PET is recommended. No significant abnormal findings in the visualized upper abdomen. No bone destruction or sclerotic lesions in the visualized bones.","{
+  ""T"": ""T3"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 50 mm (T2b size criteria), but T3 is assigned due to direct invasion into the chest wall (right second rib osteolytic lesions with infiltration). N0 is selected as mediastinal/hilar lymph nodes are described as reactive without pathological enlargement. M0 is assigned since the adrenal lesion is uncertain and requires further evaluation, with no confirmed distant metastasis.""
+}",deepseek-reasoner
+11604112,T2b,N2,M1b,The primary tumor is 46 mm (T2b: >40 mm and ≤50 mm) with pleural contact suggesting visceral pleural invasion (T2 feature). Mediastinal lymph nodes near the trachea indicate N2 metastasis. A single adrenal gland lesion represents a single extrathoracic metastasis (M1b). No bone or other organ metastases are described.,"Emphysematous changes of the lung parenchyma.
+An irregular mass is located in the apex of the right lung, which is considered to be a known cancer lesion. Its longest diameter is 46 mm. It is widely in contact with the pleura, suggesting invasion. However, clear invasion into the chest wall cannot be pointed out. 
+No lesions suspicious of lung metastasis. 
+Pathological enlargement of the lymph nodes near the trachea, suspicious of metastases. No pathological enlargement in the supraclavicular lymph nodes. 
+No pleural effusion. 
+A coarse tumor is seen in the left adrenal gland, suspecting metastasis. 
+No significant abnormal findings in other visualized upper abdominal organs. 
+No bone destruction or bone sclerosis suggesting metastasis in the visualized bones.","{
+  ""T"": ""T2b"",
+  ""N"": ""N2"",
+  ""M"": ""M1b"",
+  ""Reason"": ""The primary tumor is 46 mm (T2b: >40 mm and ≤50 mm) with pleural contact suggesting visceral pleural invasion (T2 feature). Mediastinal lymph nodes near the trachea indicate N2 metastasis. A single adrenal gland lesion represents a single extrathoracic metastasis (M1b). No bone or other organ metastases are described.""
+}",deepseek-reasoner
+11650032,T3,N1,M1c,"The primary tumor measures 35 mm (T2a), but the presence of a separate 8 mm nodule in the same lobe (left lower lobe) elevates the T classification to T3. Enlarged lymph nodes in the left hilum indicate N1 (ipsilateral hilar metastasis). Multiple liver metastases confirm M1c (multiple extrathoracic metastases).","There is an irregular tumor measuring 35 mm in the distal part of the left lower lobe, accompanied by retraction of the interlobar pleura. There is a nodule measuring 8 mm in the left lower lobe, suspected to be a metastatic nodule. Lymph nodes in the left hilum are enlarged, suggesting metastasis. No significant mediastinal lymph node enlargement. No pleural effusion. In the liver, there is a hypodense area near the gallbladder bed, suggesting multiple liver metastases. There are edematous changes around the gallbladder, which may be due to portal vein congestion. Bilateral renal cysts. No other obvious metastases, including in the adrenal glands. No para-aortic lymph node enlargement or ascites.","{
+  ""T"": ""T3"",
+  ""N"": ""N1"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 35 mm (T2a), but the presence of a separate 8 mm nodule in the same lobe (left lower lobe) elevates the T classification to T3. Enlarged lymph nodes in the left hilum indicate N1 (ipsilateral hilar metastasis). Multiple liver metastases confirm M1c (multiple extrathoracic metastases).""
+}",deepseek-reasoner
+11789977,T2a,N2,M0,"The tumor involves the left main bronchus (T2 feature). Atelectasis extends to the hilar region, aligning with T2 criteria. A 9 mm left mediastinal lymph node suggests N2 (ipsilateral mediastinal). No distant metastases or malignant pleural effusion (M0). Tumor size is not explicitly stated, but T2a is selected as the default subcategory when T2 is determined by non-size criteria.","No comparable imaging studies are available.
+Atelectasis is observed in the left lingular segment and part of the upper lobe. No tumor can be seen centrally, but there is narrowing and obstruction of the airways from the left main bronchus to the peripheral bronchi, which is considered to be lung cancer accompanied by atelectasis.
+There are no obvious metastases or other active lesions in the lung parenchyma.
+A lymph node with a short diameter of about 9 mm is found in the left mediastinum, and metastasis is suspected.
+No significant lymphadenopathy in other areas.
+Pleural effusion on the left. There are no findings that suggest pleural dissemination, such as irregular thickening of the pleura.
+There are no obvious abnormalities in the visualized upper abdomen.
+There is no ascites.
+There are no other significant findings.","{
+  ""T"": ""T2a"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor involves the left main bronchus (T2 feature). Atelectasis extends to the hilar region, aligning with T2 criteria. A 9 mm left mediastinal lymph node suggests N2 (ipsilateral mediastinal). No distant metastases or malignant pleural effusion (M0). Tumor size is not explicitly stated, but T2a is selected as the default subcategory when T2 is determined by non-size criteria.""
+}",deepseek-reasoner
+12912312,T4,N2,M1c,"T4 is assigned because the primary tumor measures 72 mm (>70 mm). N2 is assigned due to enlarged mediastinal lymph nodes, including subcarinal (ipsilateral mediastinal involvement). M1c is assigned because osteolytic tumors in the left scapula and humerus indicate multiple extrathoracic metastases.","No comparable imaging examinations are available.
+A tumor mass of 72 mm in diameter is located in the lower lobe of the left lung. It is considered to correspond to known lung cancer. There are no obvious metastases in the lungs.
+Emphysematous changes.
+Pleural effusion on the left. The pleura is slightly thickened, suggesting the possibility of dissemination.
+Numerous enlarged lymph nodes in the mediastinum, including below the bifurcation of the trachea, and in the left axilla, raising suspicion of metastasis. No other significant lymph node enlargement visualized.
+Osteolytic tumors are observed in the left scapula and humerus, suggesting the possibility of bone metastasis.
+No obvious abnormalities are observed in the visualized upper abdomen.
+No ascites.
+No other significant findings.","```json
+{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""T4 is assigned because the primary tumor measures 72 mm (>70 mm). N2 is assigned due to enlarged mediastinal lymph nodes, including subcarinal (ipsilateral mediastinal involvement). M1c is assigned because osteolytic tumors in the left scapula and humerus indicate multiple extrathoracic metastases.""
+}
+```",deepseek-reasoner
+12958437,T2b,N2,M1b,"The primary tumor measures 46 mm in greatest dimension (T2b criteria: >40 mm and ≤50 mm). Visceral pleural invasion is suspected, further supporting T2. Mediastinal lymph node enlargement (15 mm) indicates N2 metastasis (ipsilateral mediastinal involvement). A left adrenal nodule (58 mm) represents a single extrathoracic metastasis, classified as M1b.","Emphysematous changes and bullae in the lung parenchyma. 
+A tumorous lesion measuring 27 × 34 × 46 mm is observed in the right upper lobe of the lung. No intralesional air. Primary lung cancer is suspected. It is in contact with the pleura, and visceral pleural invasion is suspected.
+The mediastinal lymph nodes are enlarged to about 15 mm, and mediastinal lymph node metastasis is suspected.
+A left adrenal nodule is observed (58mm), suspicious of metastasis.","{
+  ""T"": ""T2b"",
+  ""N"": ""N2"",
+  ""M"": ""M1b"",
+  ""Reason"": ""The primary tumor measures 46 mm in greatest dimension (T2b criteria: >40 mm and ≤50 mm). Visceral pleural invasion is suspected, further supporting T2. Mediastinal lymph node enlargement (15 mm) indicates N2 metastasis (ipsilateral mediastinal involvement). A left adrenal nodule (58 mm) represents a single extrathoracic metastasis, classified as M1b.""
+}",deepseek-reasoner
+13029131,T4,N1,M0,"T4 due to tumor contact with the heart (mediastinal structure) with possible invasion. N1 due to suspicious lymph node metastases in the ipsilateral left pulmonary hilum. M0 as scattered right lower lobe nodules are likely inflammatory, and no distant metastases are confirmed.","A tumor is located in the left pulmonary hilum. It protrudes into parts of the upper lobe bronchus, and the periphery has become alectatic. Towards the mediastinum, it is in contact with the heart and there is a possibility of invasion. It is considered T4.
+Small nodules are scattered in the lower lobe of the right lung, but they are mainly polygonal and inflammatory nodules are suspected.
+There are multiple rounded masses in the left pulmonary hilum region, suspicious of lymph node metastases.
+No enlargement of the mediastinal lymph nodes.
+No pleural effusion.
+No significant findings in the visualized abdominal organs.","{
+  ""T"": ""T4"",
+  ""N"": ""N1"",
+  ""M"": ""M0"",
+  ""Reason"": ""T4 due to tumor contact with the heart (mediastinal structure) with possible invasion. N1 due to suspicious lymph node metastases in the ipsilateral left pulmonary hilum. M0 as scattered right lower lobe nodules are likely inflammatory, and no distant metastases are confirmed.""
+}",deepseek-reasoner
+13358309,T3,N1,M1b,"T3: Primary tumor is 30 mm (T1c size) but with a separate 8 mm nodule in the same lobe (left lower lobe S6), meeting T3 criteria for 'separate tumor nodule(s) in the same lobe.' N1: Enlarged left hilar lymph nodes indicate ipsilateral hilar metastasis. M1b: Liver metastasis (hypodense tumor in S5) qualifies as a single extrathoracic metastasis in a single organ.","There is a tumor with a maximum diameter of 30 mm in the left lower lobe S6, and a focal ground-glass opacity of 9 mm in contact with the tumor. 
+In addition, there is a nodule of 8 mm along the interlobar pleura of the left lower lobe S6. 
+Lung cancer and pulmonary metastases are suspected. 
+The left hilar lymph nodes are enlarged, considered to be metastases.
+No pleural effusion. 
+There is an hypodense tumor in the liver, segment S5, considered to be metastasis.
+Bilateral renal cysts are present. 
+There is a noticeable accumulation of feces in the colon. 
+No significant abnormalities in other abdominal organs. 
+No ascites. 
+No obvious enlargement of abdominal lymph nodes.","{
+  ""T"": ""T3"",
+  ""N"": ""N1"",
+  ""M"": ""M1b"",
+  ""Reason"": ""T3: Primary tumor is 30 mm (T1c size) but with a separate 8 mm nodule in the same lobe (left lower lobe S6), meeting T3 criteria for 'separate tumor nodule(s) in the same lobe.' N1: Enlarged left hilar lymph nodes indicate ipsilateral hilar metastasis. M1b: Liver metastasis (hypodense tumor in S5) qualifies as a single extrathoracic metastasis in a single organ.""
+}",deepseek-reasoner
+13567317,T2b,N2,M0,The tumor measures 50 mm (T2b criteria: >40 mm and ≤50 mm) with suspected visceral pleural invasion (T2 feature). Soft tissue masses extending from the right hilum to the mediastinum suggest ipsilateral mediastinal lymph node involvement (N2). No evidence of distant metastasis is reported (M0).,"Interstitial pneumonia and pulmonary emphysema. A condition that is prone to the development of lung cancer, such as emphysema combined with pulmonary fibrosis, is suspected.
+A tumorous lesion of approximately 50 mm is located mainly in the right upper lobe of the lung. Primary lung cancer is suspected.
+Infiltration into the visceral pleura is suspected.
+Soft tissue masses are found from the right hilum to the mediastinum, possibly lymph node metastases.","{
+  ""T"": ""T2b"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 50 mm (T2b criteria: >40 mm and ≤50 mm) with suspected visceral pleural invasion (T2 feature). Soft tissue masses extending from the right hilum to the mediastinum suggest ipsilateral mediastinal lymph node involvement (N2). No evidence of distant metastasis is reported (M0).""
+}",deepseek-reasoner
+13658329,T2b,N0,M0,The tumor measures 50 mm (T2b size criteria) and shows visceral pleural invasion (T2 feature). No lymph node enlargement (N0) and no distant metastasis (M0) are reported.,"There is suspicion of chronic pulmonary emphysema in the lung parenchyma. A tumor with a long diameter of 50 mm with spiculated margins and extensive contact to the pleura, is located in the right lung apex. Lung cancer with visceral pleural invasion is suspected. No obvious secondary tumor nodules in the lungs. No significant enlargement of the mediastinal and hilar lymph nodes or other mediastinal organ lesions. No pleural effusion. No obvious abnormalities in the visualized upper abdomen.","{
+  ""T"": ""T2b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 50 mm (T2b size criteria) and shows visceral pleural invasion (T2 feature). No lymph node enlargement (N0) and no distant metastasis (M0) are reported.""
+}",deepseek-reasoner
+14133008,T4,N2,M1a,T4: Tumor size (72 mm) exceeds 70 mm threshold. N2: Enlarged subcarinal lymph nodes (below tracheal bifurcation) indicate ipsilateral mediastinal involvement. M1a: Pleural effusion with suspected pleural dissemination qualifies as M1a (pleural involvement).,"There is a 72 mm tumor in the left lower lobe, which is considered to be the primary focus of known lung cancer. Pleural effusion on the left. Pleural dissemination cannot be ruled out. The lymph nodes below the tracheal bifurcation are enlarged, suspicious of metastases.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M1a"",
+  ""Reason"": ""T4: Tumor size (72 mm) exceeds 70 mm threshold. N2: Enlarged subcarinal lymph nodes (below tracheal bifurcation) indicate ipsilateral mediastinal involvement. M1a: Pleural effusion with suspected pleural dissemination qualifies as M1a (pleural involvement).""
+}",deepseek-reasoner
+14133817,T2a,N1,M1c,The primary tumor measures 40 mm (T2a: 30-40 mm) with pleural invasion (T2 criteria). Right hilar lymph node enlargement indicates N1 metastasis. Multiple liver metastases and a distant lymph node in the hepatic portal area classify as M1c (multiple extrathoracic metastases in one organ and a distant node).,"Chest:
+Emphysematous changes.
+A 40 mm tumor is located in the right lower lobe, accompanied by pleural invasion. Lung cancer is suspected. A bronchial mucus plug is suspected below the tumor, but a tumor thrombus cannot be ruled out.
+There is a faint ground-glass opacity in the right upper lobe, which may be an inflammatory change. Please follow up.
+The right hilar lymph nodes are slightly enlarged, suggesting metastases. No enlargement of the mediastinal lymph nodes.
+No pleural effusion.
+
+Abdomen to Pelvic area:
+Multiple tumors are found in the liver, suggesting multiple liver metastases.
+Numerous gallstones. Also, there's a stone in the common bile duct stone, and the upstream common bile duct is dilated.
+There is a nodule in contact with the hepatic portal area and gallbladder, suggesting lymph node metastasis.
+A left renal cyst is present.
+No enlargement of the para-aortic lymph nodes.
+Ascites is present.","{
+  ""T"": ""T2a"",
+  ""N"": ""N1"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 40 mm (T2a: 30-40 mm) with pleural invasion (T2 criteria). Right hilar lymph node enlargement indicates N1 metastasis. Multiple liver metastases and a distant lymph node in the hepatic portal area classify as M1c (multiple extrathoracic metastases in one organ and a distant node).""
+}",deepseek-reasoner
+15005039,T2b,N2,M1b,The primary tumor measures 46 mm (T2b: >40 mm but ≤50 mm). Right lower paratracheal lymph node enlargement suggests ipsilateral mediastinal involvement (N2). A 58 mm left adrenal gland tumor indicates a single extrathoracic metastasis (M1b).,"No comparable imaging studies are available. 
+A lobulated tumor mass, measuring 46 mm in the longest dimension, is observed in the right lung apex, which is considered to be a finding of known lung cancer. 
+Centrilobular emphysema is seen mainly in the upper lung. There are no obvious metastases or other active lesions in the lungs. 
+Enlargement of the right lower paratracheal lymph node is observed, suggesting metastasis. The size of the lymph nodes below the tracheal bifurcation and on the opposite mediastinum is also somewhat prominent, but the findings are nonspecific. 
+No pleural effusion. 
+A tumor measuring approximately 58 mm in the longest dimension is observed in the left adrenal gland, raising suspicion of metastasis. 
+No other obvious abnormalities in the visualized upper abdomen. 
+No ascites. 
+No other significant findings.","{
+  ""T"": ""T2b"",
+  ""N"": ""N2"",
+  ""M"": ""M1b"",
+  ""Reason"": ""The primary tumor measures 46 mm (T2b: >40 mm but ≤50 mm). Right lower paratracheal lymph node enlargement suggests ipsilateral mediastinal involvement (N2). A 58 mm left adrenal gland tumor indicates a single extrathoracic metastasis (M1b).""
+}",deepseek-reasoner
+15045923,T3,N0,M0,The tumor measures 50 mm (T2b by size) but is upgraded to T3 due to suspected chest wall invasion. No lymph node enlargement (N0) and no distant metastasis (M0) are reported.,"A tumor shadow of 50 mm is located in the apex of the right lung with irregular shape and spiculated margins, suggesting lung cancer. It is widely in contact with the chest wall, suspecting infiltration. There are interstitial changes such as mild emphysematous changes mainly subpleural, reticular opacities, and ground-glass opacities. No significant lymph node enlargement in the mediastinum. There is no pleural effusion.","{
+  ""T"": ""T3"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 50 mm (T2b by size) but is upgraded to T3 due to suspected chest wall invasion. No lymph node enlargement (N0) and no distant metastasis (M0) are reported.""
+}",deepseek-reasoner
+15059875,T2a,N2,M1c,"T2a: Tumor measures 40 mm (30-40 mm = T2a) and is associated with obstructive atelectasis extending to the hilar region. N2: Ipsilateral mediastinal lymph node involvement (right tracheal nodes). M1c: Multiple liver metastases (extrathoracic, multiple organs).","There is a lobulated tumor with a long diameter of 40 mm in the right lower lobe of the lung, suspecting lung cancer. There are nodular opacities around the lesion, suspected to be obstructive atelectasis due to the tumor. It is considered T2.
+Lymph node enlargement is seen on the right side of the trachea, suspecting metastasis. No enlargement is observed in the lymph nodes on the opposite side. It is considered N2.
+No pleural effusion.
+Multiple tumors are found in the liver, suspecting multiple metastases. It is considered M1c.
+No tumorous lesions in the adrenal glands.
+Significant dilation of the common bile duct and intrahepatic bile duct. A hypodense stone is seen in the lower common bile duct.
+A cyst is found in the left kidney.
+No significant findings in the spleen.
+No abdominal lymph node enlargement.
+Ascites is present in the pelvic cavity.
+No findings suggesting bone metastasis.","{
+  ""T"": ""T2a"",
+  ""N"": ""N2"",
+  ""M"": ""M1c"",
+  ""Reason"": ""T2a: Tumor measures 40 mm (30-40 mm = T2a) and is associated with obstructive atelectasis extending to the hilar region. N2: Ipsilateral mediastinal lymph node involvement (right tracheal nodes). M1c: Multiple liver metastases (extrathoracic, multiple organs).""
+}",deepseek-reasoner
+15095613,T2b,N1,M0,"The tumor measures 47 mm (T2b: >40 mm but ≤50 mm). Involvement of the left hilar lymph nodes indicates N1. There is no evidence of distant metastasis (M0). Suspected invasion of the pulmonary artery or mediastinum is noted but not confirmed, so T4 is not assigned based on current imaging.","Severe emphysematous changes. There is an irregular tumor of 47 mm in the upper lobe of the left lung, suspecting lung cancer. The tumor has narrowed the upper lobe bronchus. Also, the tumor is closely associated with the main trunk of the left pulmonary artery, raising suspicion of invasion. Please re-evaluate in contrast-enhanced imaging. The tumor is also in contact with the mediastinum near the aortic arch, and evaluation of mediastinal invasion by contrast-enhanced images is recommended. The tumor appears to be a mass with the left hilum lymph nodes. No coarse mediastinal lymphadenopathy. No pleural effusion.","{
+  ""T"": ""T2b"",
+  ""N"": ""N1"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor measures 47 mm (T2b: >40 mm but ≤50 mm). Involvement of the left hilar lymph nodes indicates N1. There is no evidence of distant metastasis (M0). Suspected invasion of the pulmonary artery or mediastinum is noted but not confirmed, so T4 is not assigned based on current imaging.""
+}",deepseek-reasoner
+15410359,T2b,N2,M1b,"The primary tumor measures 50 mm (T2b). Enlarged lymph nodes at the right hilum (N1) and subcarinal region (N2) suggest N2. A hypodense left adrenal lesion, suspicious for metastasis, qualifies as M1b (single extrathoracic metastasis). Small ipsilateral lung nodules are non-specific and do not affect T/M staging.","No comparable imaging studies are available.
+A tumor mass measuring 50 mm in diameter is located in the right lung apex. The lesion is in close proximity to the pleura and extends close to the ribs. There is a possibility of pleural invasion.
+Small nodules are found in the right upper lobe. Their size is too small for a specific diagnosis, please follow up.
+Centrilobular emphysema is seen mainly in the upper lungs. Interstitial changes such as ground-glass opacities, reticular opacities, and cystic changes are seen in the peripheral areas of both lower lobes.
+No other obvious active lesions are observed in the lungs.
+The size of the lymph nodes at the right hilum and below the tracheal bifurcation is noticeable, suggesting the possibility of metastasis. Please also evaluate with PET-CT.
+No other significant lymph node enlargement visualized.
+No pleural effusion.
+A hypodense tumor is found in the left adrenal gland. Detailed evaluation is difficult as it is only partially visualized, but metastasis cannot be ruled out. Please consider additional abdominal CT.
+No other obvious abnormalities in the visualized upper abdomen.
+No ascites.
+No other significant findings.","{
+  ""T"": ""T2b"",
+  ""N"": ""N2"",
+  ""M"": ""M1b"",
+  ""Reason"": ""The primary tumor measures 50 mm (T2b). Enlarged lymph nodes at the right hilum (N1) and subcarinal region (N2) suggest N2. A hypodense left adrenal lesion, suspicious for metastasis, qualifies as M1b (single extrathoracic metastasis). Small ipsilateral lung nodules are non-specific and do not affect T/M staging.""
+}",deepseek-reasoner
+15465590,T4,N0,M1c,"T4: Tumor size is 72 mm (>70 mm). N0: No mention of regional lymph node involvement (axillary nodes are non-regional for lung cancer). M1c: Multiple extrathoracic metastases (osteolytic lesions in humerus and scapula) with pleural effusion (M1a) and bone metastases (M1c), where M1c takes precedence as it represents multiple extrathoracic sites.","There is a tumor with a long diameter of 72 mm in the left lower lobe, suspecting primary lung cancer. Ground-glass opacity and interlobular septal thickening are present around the tumor. There is a possibility of lymphangitic carcinomatosis. A few lymph nodes in the left axilla are enlarged, suspecting metastasis. Pleural effusion on the left. Osteolytic lesions are found in the left humerus and scapula, suspecting bone metastasis. No obvious abnormalities in the visualized upper abdomen. Subcutaneous nodules in the chest and back are observed, suspecting benign nodules such as sebaceous cysts.","{
+  ""T"": ""T4"",
+  ""N"": ""N0"",
+  ""M"": ""M1c"",
+  ""Reason"": ""T4: Tumor size is 72 mm (>70 mm). N0: No mention of regional lymph node involvement (axillary nodes are non-regional for lung cancer). M1c: Multiple extrathoracic metastases (osteolytic lesions in humerus and scapula) with pleural effusion (M1a) and bone metastases (M1c), where M1c takes precedence as it represents multiple extrathoracic sites.""
+}",deepseek-reasoner
+15654062,T2b,N2,M1b,T2b: Tumor measures 46 mm (T2b: >40 mm but ≤50 mm) and shows pleural contact with possible infiltration (T2 criteria). N2: Enlarged mediastinal lymph nodes indicate ipsilateral mediastinal metastasis (N2). M1b: Left adrenal tumor represents a single extrathoracic metastasis (M1b).,"An irregular tumor mass of 46 mm is located in the apex of the right lung, suggesting lung cancer. It is widely in contact with the pleura, and there is a possibility of infiltration.
+Bronchiectases in the left upper lobe.
+Enlarged lymph nodes in the mediastinum, suggesting metastasis.
+There is no pleural effusion.
+There is a tumor in the left adrenal region, with an increased density of the surrounding fat tissue. Differential diagnoses include metastasis and hematoma.","{
+  ""T"": ""T2b"",
+  ""N"": ""N2"",
+  ""M"": ""M1b"",
+  ""Reason"": ""T2b: Tumor measures 46 mm (T2b: >40 mm but ≤50 mm) and shows pleural contact with possible infiltration (T2 criteria). N2: Enlarged mediastinal lymph nodes indicate ipsilateral mediastinal metastasis (N2). M1b: Left adrenal tumor represents a single extrathoracic metastasis (M1b).""
+}",deepseek-reasoner
+15702092,T4,N2,M0,"The primary tumor measures 120 mm (exceeding 70 mm, T4). Left mediastinal lymph node involvement indicates N2. No distant metastasis is mentioned (M0). Same-lobe nodules are part of T staging (T4 due to size), not M1a.","There is a large tumor with a diameter of 120 mm in the left upper lobe of the lung, which is believed to be a known primary lesion. Mediastinal infiltration is suspected. There are also two small nodules around it. Lung cancer with intra-lobe metastasis is suggested.
+Left mediastinal lymph node metastasis is suspected. No coarse lesions in the upper abdomen.","{
+  ""T"": ""T4"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""The primary tumor measures 120 mm (exceeding 70 mm, T4). Left mediastinal lymph node involvement indicates N2. No distant metastasis is mentioned (M0). Same-lobe nodules are part of T staging (T4 due to size), not M1a.""
+}",deepseek-reasoner
+15853567,T2a,N0,M1c,The primary tumor measures 40 mm (T2a). No significant lymph node enlargement is reported (N0). Multiple liver metastases (extrathoracic) and ascites suggest multiple extrathoracic metastases (M1c).,"Emphysematous changes.
+A tumor mass of 40 mm is found in the right lower lobe. Lung cancer is suspected.
+Ground-glass opacities are scattered in the right upper lobe, possibly inflammatory changes, recommended to follow up.
+No significant lymph node enlargement in the mediastinum.
+There is no pleural effusion.
+Hypodense tumors are scattered in the liver, and multiple liver metastases are suspected.
+Gallstones.
+Common bile duct stones, accompanied by bile duct dilation.
+A cyst is found in the left kidney.
+No significant lymph node enlargement in the periaortic region.
+There is ascites in the pelvic region.","{
+  ""T"": ""T2a"",
+  ""N"": ""N0"",
+  ""M"": ""M1c"",
+  ""Reason"": ""The primary tumor measures 40 mm (T2a). No significant lymph node enlargement is reported (N0). Multiple liver metastases (extrathoracic) and ascites suggest multiple extrathoracic metastases (M1c).""
+}",deepseek-reasoner
+16564891,T2a,N2,M0,"The tumor involves the main bronchus (right hilum bronchus) and causes obstructive atelectasis extending to the hilar region (T2 criteria). Despite the tumor size (17 mm), T2 is assigned due to these features. T2a is selected as the required subcategory despite size mismatch. Right hilar lymph nodes (N1) and mediastinal lymph nodes (N2) involvement indicate N2. No distant metastasis supports M0.","A nodule is present in the right hilum to the right bronchus (the nodular part is approximately 17 mm). Primary bronchial carcinoma (adenosquamous carcinoma) originating from the right hilum bronchus is suspected. The ventilation of the right lower and middle lobes is decreased, and air bronchograms and mucus plugs are also observed, considered to be an obstructive atelectasis of the right lower and middle lobes due to bronchial carcinoma. The ventilation of the right upper lobe is normal.
+No obvious nodules in the left lung.
+The right hilar lymph nodes are conglomerated, and lymph node metastasis is suspected. The mediastinal lymph nodes are also enlarged, suggesting metastasis.","{
+  ""T"": ""T2a"",
+  ""N"": ""N2"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor involves the main bronchus (right hilum bronchus) and causes obstructive atelectasis extending to the hilar region (T2 criteria). Despite the tumor size (17 mm), T2 is assigned due to these features. T2a is selected as the required subcategory despite size mismatch. Right hilar lymph nodes (N1) and mediastinal lymph nodes (N2) involvement indicate N2. No distant metastasis supports M0.""
+}",deepseek-reasoner
+16573882,T1b,N0,M0,The 12 mm subpleural nodule in the right lower lobe (≤20 mm) classifies as T1b. No significant lymph node enlargement indicates N0. No pleural effusion or distant metastases confirms M0.,"Mild emphysematous changes.
+There is a 12 mm subpleural nodule in the right lower lobe, considered to be the indicated lung cancer lesion.
+No significant lymph node enlargement in the mediastinum.
+There is no pleural effusion.","{
+  ""T"": ""T1b"",
+  ""N"": ""N0"",
+  ""M"": ""M0"",
+  ""Reason"": ""The 12 mm subpleural nodule in the right lower lobe (≤20 mm) classifies as T1b. No significant lymph node enlargement indicates N0. No pleural effusion or distant metastases confirms M0.""
+}",deepseek-reasoner
+16625166,T4,N1,M0,"The tumor infiltrates the mediastinum, which classifies it as T4. Enlarged hilar lymph nodes indicate ipsilateral hilar metastasis (N1). No evidence of distant metastasis is mentioned, so M0.","A tumorous lesion accompanied by a atelectatic lung is observed in the left upper lobe, suggesting to be a finding of known lung cancer. Infiltration into the pleura and mediastinum is suspected. The hilar lymph nodes appear enlarged, indicating a possibility of metastasis.","{
+  ""T"": ""T4"",
+  ""N"": ""N1"",
+  ""M"": ""M0"",
+  ""Reason"": ""The tumor infiltrates the mediastinum, which classifies it as T4. Enlarged hilar lymph nodes indicate ipsilateral hilar metastasis (N1). No evidence of distant metastasis is mentioned, so M0.""
+}",deepseek-reasoner

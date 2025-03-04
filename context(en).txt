@@ -1,0 +1,49 @@
+---
+T: primary tumor
+
+- T0: *no evidence of a primary tumor or primary tumor cannot be assessed*
+
+- Tis: *carcinoma in situ - tumor measuring 30 mm or less and has no invasive component at histopathology*
+
+- T1: *tumor measuring 30 mm or less in greatest dimension surrounded by lung or visceral pleura without bronchoscopic evidence of invasion more proximal than the lobar bronchus (i.e. not in the main bronchus)
+    - T1mi: minimally invasive adenocarcinoma
+        - tumor has an invasive component measuring 5 mm or less at histopathology and the overall tumor size not exceed 30 mm.
+    - T1a: tumor less than or equal to 10 mm in greatest dimension
+    - T1b: tumor greater than 10 mm but less than or equal to 20 mm in greatest dimension
+    - T1c: tumor greater than 20 mm but less than or equal to 30 mm in greatest dimension
+
+- T2: tumor greater than 30 mm but less than or equal to 50 mm or tumor with any of the following features:
+    *involves the main bronchus regardless of distance from the carina but without the involvement of the carina*
+    *invades visceral pleura*
+    * associated with atelectasis or obstructive pneumonitis that extends to the hilar region (involving part or all of the lung)*
+    - T2a: tumor greater than 30 mm but less than or equal to 40 mm in greatest dimension
+    - T2b: tumor greater than 40 mm but less than or equal to 50 mm in greatest dimension
+
+- T3: tumor greater than 50 mm but less than or equal to 70 mm in greatest dimension or associated with separate tumor nodule(s) in the same lobe as the primary tumor or directly invades any of the following structures:
+    *chest wall (including the parietal pleura and superior sulcus)*
+    *phrenic nerve*
+    *parietal pericardium*
+
+- T4: *tumor greater than 70 mm in greatest dimension* or
+      *associated with separate tumor nodule(s) in a different ipsilateral lobe than that of the primary tumor* or
+      *invades any of the following structures: diaphragm, mediastinum, heart, great vessels, trachea, recurrent laryngeal nerve, sophagus, vertebral body, carina*
+---
+N: *regional lymph node involvement*
+
+- N0: no regional lymph node metastasis or regional lymph nodes cannot be assessed or regional lymph nodes cannot be assessed
+
+- N1: metastasis in ipsilateral peribronchial and/or ipsilateral hilar lymph nodes and intrapulmonary nodes, including involvement by direct extension
+
+- N2: metastasis in ipsilateral mediastinal and/or subcarinal lymph node(s)
+
+- N3: metastasis in contralateral mediastinal, contralateral hilar, ipsilateral or contralateral scalene, or supraclavicular lymph node(s)
+---
+M: *distant metastasis*
+
+- M0: no distant metastasis
+
+- M1: distant metastasis present
+    - M1a: separate tumor nodule(s) in a contralateral lobe; tumor with pleural or pericardial nodule(s) or malignant pleural or pericardial effusions
+    - M1b: single extrathoracic metastasis, involving a single organ or a single distant (nonregional) node
+    - M1c: multiple extrathoracic metastases in one or more organs
+---
